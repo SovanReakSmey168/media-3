@@ -639,6 +639,17 @@
       "size": 430078,
       "created_at": "2026-08-31T08:14:19.746Z",
       "commit_sha": "8556cccbdda0e0eb49897133f4fa26573bdb027f"
+    },
+    {
+      "id": "830856eb-3c24-4f5d-9b8c-7c531c58cccc",
+      "folder_id": "23b45ba6-f2bf-4542-a18a-15216be737cf",
+      "filename": "peachtea_c0trs4.jpg",
+      "storage_path": "media/peach_tea/images/peachtea_c0trs4.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@ef9df1aeff1db920d9fe09917e153da1c88bacc3/media/peach_tea/images/peachtea_c0trs4.jpg",
+      "mime_type": "image/jpeg",
+      "size": 325563,
+      "created_at": "2026-08-31T08:14:23.236Z",
+      "commit_sha": "ef9df1aeff1db920d9fe09917e153da1c88bacc3"
     }
   ]
 }
