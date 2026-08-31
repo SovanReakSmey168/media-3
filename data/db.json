@@ -1,4 +1,10 @@
 {
-  "folders": [],
+  "folders": [
+    {
+      "id": "6fd9abd8-6d5e-49b3-83e6-b45fd351b3ba",
+      "name": "AD Website",
+      "created_at": "2026-08-31T06:57:45.511Z"
+    }
+  ],
   "files": []
 }
