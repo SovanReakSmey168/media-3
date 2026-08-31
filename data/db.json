@@ -324,17 +324,6 @@
       "commit_sha": "958d7ff9ea78c4e996293c5eee1283042591b8a5"
     },
     {
-      "id": "ac0cc473-aa26-465a-9b52-4e35bd4c73d4",
-      "folder_id": "9681edf1-f413-48bb-ab3f-5e642217cb77",
-      "filename": "ad-iq-banner_pc.jpg",
-      "storage_path": "media/website_banner/images/ad-iq-banner_pc.jpg",
-      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@20f78a46fe5b8ecf7d0ce2255f94fad58cc725e8/media/website_banner/images/ad-iq-banner_pc.jpg",
-      "mime_type": "image/jpeg",
-      "size": 736373,
-      "created_at": "2026-08-31T07:45:15.424Z",
-      "commit_sha": "20f78a46fe5b8ecf7d0ce2255f94fad58cc725e8"
-    },
-    {
       "id": "5be0e744-b05d-4184-930b-31b8a3e9142a",
       "folder_id": "9681edf1-f413-48bb-ab3f-5e642217cb77",
       "filename": "ad-iq-banner_pc.jpg",
