@@ -213,6 +213,17 @@
       "size": 530068,
       "created_at": "2026-08-31T07:16:01.540Z",
       "commit_sha": "5ae012f12ccb661d69c0b0ddc8ef114f76d17f62"
+    },
+    {
+      "id": "54b4b11b-89c6-4e1b-a2fc-76ef43c98479",
+      "folder_id": "39e5c3ec-b9f4-4bb5-80e7-1c9d12c13f55",
+      "filename": "gif_yogurt_o0olnk.gif",
+      "storage_path": "media/ad_yogurt/images/gif_yogurt_o0olnk.gif",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@d30b81a78a1ff14010d61e3661432ed6ccf0b57b/media/ad_yogurt/images/gif_yogurt_o0olnk.gif",
+      "mime_type": "image/gif",
+      "size": 426670,
+      "created_at": "2026-08-31T07:16:05.289Z",
+      "commit_sha": "d30b81a78a1ff14010d61e3661432ed6ccf0b57b"
     }
   ]
 }
