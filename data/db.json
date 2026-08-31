@@ -148,6 +148,17 @@
       "size": 1317543,
       "created_at": "2026-08-31T07:11:50.666Z",
       "commit_sha": "5e6f93a216d79015deb3e1a7521b9b5272005bde"
+    },
+    {
+      "id": "a59742cd-778b-466e-b999-6ee170eb15cd",
+      "folder_id": "a2f9ff5f-02b3-4b5d-a713-ae27a8760131",
+      "filename": "_ad_tgu3j6.png",
+      "storage_path": "media/iq/images/_ad_tgu3j6.png",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@7645f69e23fe51f4cb2a47ffe670db265dc5141d/media/iq/images/_ad_tgu3j6.png",
+      "mime_type": "image/png",
+      "size": 925326,
+      "created_at": "2026-08-31T07:11:54.657Z",
+      "commit_sha": "7645f69e23fe51f4cb2a47ffe670db265dc5141d"
     }
   ]
 }
