@@ -497,6 +497,17 @@
       "size": 1119529,
       "created_at": "2026-08-31T08:05:04.289Z",
       "commit_sha": "24fea08c21183052d872be9bfe7e03f23d2ae3bd"
+    },
+    {
+      "id": "d51fd990-7346-4cdb-bff4-24fe745a0759",
+      "folder_id": "8c06b26a-8c77-461d-bf47-07d79f18f763",
+      "filename": "grapetea_poster_-500.png_ka0rvb.jpg",
+      "storage_path": "media/greap_tea/images/grapetea_poster_-500.png_ka0rvb.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@e0957e360954db73bbd47d25e151529364ff7a3d/media/greap_tea/images/grapetea_poster_-500.png_ka0rvb.jpg",
+      "mime_type": "image/jpeg",
+      "size": 353294,
+      "created_at": "2026-08-31T08:08:56.674Z",
+      "commit_sha": "e0957e360954db73bbd47d25e151529364ff7a3d"
     }
   ]
 }
