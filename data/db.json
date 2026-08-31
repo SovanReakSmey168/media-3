@@ -202,6 +202,17 @@
       "size": 216235,
       "created_at": "2026-08-31T07:14:17.440Z",
       "commit_sha": "ddc62b10a9333ae0b2083ff0967c607b1720a763"
+    },
+    {
+      "id": "312aee9c-0e17-4c41-b0a1-fe320ebe00a9",
+      "folder_id": "39e5c3ec-b9f4-4bb5-80e7-1c9d12c13f55",
+      "filename": "ad_yogurt_roxsug.mp4",
+      "storage_path": "media/ad_yogurt/videos/ad_yogurt_roxsug.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@5ae012f12ccb661d69c0b0ddc8ef114f76d17f62/media/ad_yogurt/videos/ad_yogurt_roxsug.mp4",
+      "mime_type": "video/mp4",
+      "size": 530068,
+      "created_at": "2026-08-31T07:16:01.540Z",
+      "commit_sha": "5ae012f12ccb661d69c0b0ddc8ef114f76d17f62"
     }
   ]
 }
