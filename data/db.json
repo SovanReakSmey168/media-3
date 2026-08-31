@@ -377,6 +377,17 @@
       "size": 628277,
       "created_at": "2026-08-31T07:47:38.051Z",
       "commit_sha": "3cb53a22014d9440f5aa76f0d006f5390c822f82"
+    },
+    {
+      "id": "9448b058-fb2b-41cc-9dfa-a9022d90156d",
+      "folder_id": "9681edf1-f413-48bb-ab3f-5e642217cb77",
+      "filename": "flag-banner-pc.jpg",
+      "storage_path": "media/website_banner/images/flag-banner-pc.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@407a9f02438a430da2637bc43dd98fde4e70f7a8/media/website_banner/images/flag-banner-pc.jpg",
+      "mime_type": "image/jpeg",
+      "size": 454409,
+      "created_at": "2026-08-31T07:48:39.642Z",
+      "commit_sha": "407a9f02438a430da2637bc43dd98fde4e70f7a8"
     }
   ]
 }
