@@ -612,6 +612,17 @@
       "size": 468407,
       "created_at": "2026-08-31T08:12:23.050Z",
       "commit_sha": "5c8d9731866a89a7da87c56f3be0f569f8d8110a"
+    },
+    {
+      "id": "cd2bc46e-141f-4da4-91a0-b293f8198d94",
+      "folder_id": "4c4cec8a-c60e-438a-93e6-640d3bf35500",
+      "filename": "lychee_motion_aikixn.mp4",
+      "storage_path": "media/lychee_tea/videos/lychee_motion_aikixn.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8a6635438e45e5bc46da4f3dc632631be9903b3a/media/lychee_tea/videos/lychee_motion_aikixn.mp4",
+      "mime_type": "video/mp4",
+      "size": 4225687,
+      "created_at": "2026-08-31T08:12:28.529Z",
+      "commit_sha": "8a6635438e45e5bc46da4f3dc632631be9903b3a"
     }
   ]
 }
