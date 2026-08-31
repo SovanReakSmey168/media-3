@@ -262,6 +262,17 @@
       "size": 4460967,
       "created_at": "2026-08-31T07:18:13.404Z",
       "commit_sha": "cd944022117c3b2b4fb6035d24df07adc00233e4"
+    },
+    {
+      "id": "474193a9-a62d-474d-a336-4eddeabf9ba7",
+      "folder_id": "793c2e20-da65-4761-8265-36331dd730ea",
+      "filename": "gif_admilk_pvptcd.gif",
+      "storage_path": "media/ad_100ml/images/gif_admilk_pvptcd.gif",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@5692bd15f4e10ef6620e53ba012b8e6efc1192b7/media/ad_100ml/images/gif_admilk_pvptcd.gif",
+      "mime_type": "image/gif",
+      "size": 244294,
+      "created_at": "2026-08-31T07:18:57.886Z",
+      "commit_sha": "5692bd15f4e10ef6620e53ba012b8e6efc1192b7"
     }
   ]
 }
