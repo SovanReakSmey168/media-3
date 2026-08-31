@@ -650,6 +650,17 @@
       "size": 325563,
       "created_at": "2026-08-31T08:14:23.236Z",
       "commit_sha": "ef9df1aeff1db920d9fe09917e153da1c88bacc3"
+    },
+    {
+      "id": "fa478ac8-7eaa-4617-b90d-c17857dc127b",
+      "folder_id": "23b45ba6-f2bf-4542-a18a-15216be737cf",
+      "filename": "peachtea_poster_02_s82int.jpg",
+      "storage_path": "media/peach_tea/images/peachtea_poster_02_s82int.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8c4c500c058f88cec636936d59d3cbb5b8c7cc47/media/peach_tea/images/peachtea_poster_02_s82int.jpg",
+      "mime_type": "image/jpeg",
+      "size": 542454,
+      "created_at": "2026-08-31T08:14:26.958Z",
+      "commit_sha": "8c4c500c058f88cec636936d59d3cbb5b8c7cc47"
     }
   ]
 }
