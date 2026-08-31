@@ -6,5 +6,17 @@
       "created_at": "2026-08-31T06:58:34.216Z"
     }
   ],
-  "files": []
+  "files": [
+    {
+      "id": "1a4231ff-628a-41b8-bb68-62a0cfa9366d",
+      "folder_id": "113dbf1a-6574-4540-8a39-a4b8c06d2533",
+      "filename": "aloe_nccio3.mp4",
+      "storage_path": "media/ad_aloe/videos/aloe_nccio3.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@5d5664d90a678b4ffd93177ed1b607721e5e1d0c/media/ad_aloe/videos/aloe_nccio3.mp4",
+      "mime_type": "video/mp4",
+      "size": 3513366,
+      "created_at": "2026-08-31T06:59:10.629Z",
+      "commit_sha": "5d5664d90a678b4ffd93177ed1b607721e5e1d0c"
+    }
+  ]
 }
