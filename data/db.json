@@ -661,6 +661,17 @@
       "size": 542454,
       "created_at": "2026-08-31T08:14:26.958Z",
       "commit_sha": "8c4c500c058f88cec636936d59d3cbb5b8c7cc47"
+    },
+    {
+      "id": "f83d5ac8-6e8c-4976-ba32-1f2f62e39490",
+      "folder_id": "23b45ba6-f2bf-4542-a18a-15216be737cf",
+      "filename": "gif_peachtea_wrqdmz.gif",
+      "storage_path": "media/peach_tea/images/gif_peachtea_wrqdmz.gif",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@e2e1da8b59b0d2405db7e624ee8ce271a75f4bf0/media/peach_tea/images/gif_peachtea_wrqdmz.gif",
+      "mime_type": "image/gif",
+      "size": 561749,
+      "created_at": "2026-08-31T08:14:32.807Z",
+      "commit_sha": "e2e1da8b59b0d2405db7e624ee8ce271a75f4bf0"
     }
   ]
 }
