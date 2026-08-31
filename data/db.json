@@ -530,6 +530,17 @@
       "size": 651097,
       "created_at": "2026-08-31T08:09:03.210Z",
       "commit_sha": "79ca38f4de1f9b1c9c20076bc8435f4d3261b71a"
+    },
+    {
+      "id": "cce35b69-b5f3-4139-982b-472a25bfe8b2",
+      "folder_id": "8c06b26a-8c77-461d-bf47-07d79f18f763",
+      "filename": "gif_grape-tea_h9n1eu.gif",
+      "storage_path": "media/greap_tea/images/gif_grape-tea_h9n1eu.gif",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@26fd4cf18f4fa09ab02dc870e3e8f3131ab7db69/media/greap_tea/images/gif_grape-tea_h9n1eu.gif",
+      "mime_type": "image/gif",
+      "size": 197199,
+      "created_at": "2026-08-31T08:09:06.753Z",
+      "commit_sha": "26fd4cf18f4fa09ab02dc870e3e8f3131ab7db69"
     }
   ]
 }
