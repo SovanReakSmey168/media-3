@@ -28,6 +28,17 @@
       "size": 410000,
       "created_at": "2026-08-31T06:59:29.990Z",
       "commit_sha": "fef9e19dba9a3f9644682df9cb439e888b4151ee"
+    },
+    {
+      "id": "e897a8d3-df3c-4b3c-bc96-bf89edcff417",
+      "folder_id": "113dbf1a-6574-4540-8a39-a4b8c06d2533",
+      "filename": "gif_posetr-aloevera_q1fx2d.gif",
+      "storage_path": "media/ad_aloe/images/gif_posetr-aloevera_q1fx2d.gif",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@bd608b6f67de1016382cc09e445dbaa6273433a9/media/ad_aloe/images/gif_posetr-aloevera_q1fx2d.gif",
+      "mime_type": "image/gif",
+      "size": 298673,
+      "created_at": "2026-08-31T06:59:32.839Z",
+      "commit_sha": "bd608b6f67de1016382cc09e445dbaa6273433a9"
     }
   ]
 }
