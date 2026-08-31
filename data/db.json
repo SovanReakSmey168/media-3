@@ -399,6 +399,17 @@
       "size": 714814,
       "created_at": "2026-08-31T07:48:43.434Z",
       "commit_sha": "4d7d354e3768c60242e65550d6b1b90984dcb797"
+    },
+    {
+      "id": "c5bb5694-e442-4ad5-a9fc-450047640a2c",
+      "folder_id": "9681edf1-f413-48bb-ab3f-5e642217cb77",
+      "filename": "peach_tea_banner_pc.jpg",
+      "storage_path": "media/website_banner/images/peach_tea_banner_pc.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@825dcede22bae1b3a8f0f6d18dc74de958362669/media/website_banner/images/peach_tea_banner_pc.jpg",
+      "mime_type": "image/jpeg",
+      "size": 999927,
+      "created_at": "2026-08-31T07:48:47.646Z",
+      "commit_sha": "825dcede22bae1b3a8f0f6d18dc74de958362669"
     }
   ]
 }
