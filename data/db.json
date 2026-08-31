@@ -852,6 +852,17 @@
       "size": 593315,
       "created_at": "2026-08-31T08:38:17.541Z",
       "commit_sha": "658f39a4cf8fd5f012174c54dc2ba4a77d07d38a"
+    },
+    {
+      "id": "c290027c-7564-4b7e-b2b4-9ac17f0d8b9f",
+      "folder_id": "75d82ef8-b679-48f5-baa1-65e6ace877a1",
+      "filename": "teaposter-500_03.png_mc0yry.jpg",
+      "storage_path": "media/_500_ml/images/teaposter-500_03.png_mc0yry.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@6ba553579dc40170fc55618dc3634ae110aa0fae/media/_500_ml/images/teaposter-500_03.png_mc0yry.jpg",
+      "mime_type": "image/jpeg",
+      "size": 410998,
+      "created_at": "2026-08-31T08:38:41.636Z",
+      "commit_sha": "6ba553579dc40170fc55618dc3634ae110aa0fae"
     }
   ]
 }
