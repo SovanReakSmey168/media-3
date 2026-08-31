@@ -590,6 +590,17 @@
       "size": 403543,
       "created_at": "2026-08-31T08:12:16.131Z",
       "commit_sha": "42cf7a52555db0766496fd94b3984a5e12afc3d8"
+    },
+    {
+      "id": "4334518b-721e-4979-9b11-a8eaba823030",
+      "folder_id": "4c4cec8a-c60e-438a-93e6-640d3bf35500",
+      "filename": "gif_lychee_wcaizl.gif",
+      "storage_path": "media/lychee_tea/images/gif_lychee_wcaizl.gif",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@68a4bbf376189e5b98624ccb6367954101b3d31c/media/lychee_tea/images/gif_lychee_wcaizl.gif",
+      "mime_type": "image/gif",
+      "size": 525870,
+      "created_at": "2026-08-31T08:12:19.770Z",
+      "commit_sha": "68a4bbf376189e5b98624ccb6367954101b3d31c"
     }
   ]
 }
