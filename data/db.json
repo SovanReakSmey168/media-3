@@ -344,6 +344,17 @@
       "size": 307641,
       "created_at": "2026-08-31T07:46:00.295Z",
       "commit_sha": "260b18488ecc1efe610d225c6670dec05810a3a1"
+    },
+    {
+      "id": "903adff4-0896-422a-8adc-f120598c3c43",
+      "folder_id": "9681edf1-f413-48bb-ab3f-5e642217cb77",
+      "filename": "collagen-baner-pc.jpg",
+      "storage_path": "media/website_banner/images/collagen-baner-pc.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@024d63bd5a87d54e93f713e49fe624c225fb0b87/media/website_banner/images/collagen-baner-pc.jpg",
+      "mime_type": "image/jpeg",
+      "size": 845984,
+      "created_at": "2026-08-31T07:46:04.047Z",
+      "commit_sha": "024d63bd5a87d54e93f713e49fe624c225fb0b87"
     }
   ]
 }
