@@ -11,17 +11,5 @@
       "created_at": "2026-08-31T04:45:11.848Z"
     }
   ],
-  "files": [
-    {
-      "id": "a0357434-b4a9-4863-a4ca-8be3db6c9eac",
-      "folder_id": "dbd0cfaa-3367-4c6b-9486-eba090206ede",
-      "filename": "_.rar",
-      "storage_path": "media/testing/documents/_.rar",
-      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@5353f52679b56a195f71d3287d1dedd20b88400b/media/testing/documents/_.rar",
-      "mime_type": "application/x-rar-compressed",
-      "size": 2571549,
-      "created_at": "2026-08-31T04:02:16.578Z",
-      "commit_sha": "5353f52679b56a195f71d3287d1dedd20b88400b"
-    }
-  ]
+  "files": []
 }
