@@ -186,6 +186,17 @@
       "size": 224902,
       "created_at": "2026-08-31T07:13:46.546Z",
       "commit_sha": "f483e82027e5dd22e1f60c4adab74c008de1ad17"
+    },
+    {
+      "id": "69f3f148-1230-4991-aa40-e3b6f3f7fb4c",
+      "folder_id": "c2d91a7f-09ef-4599-a8ff-f47a21659abf",
+      "filename": "ad-pro-poster_mkv77j.jpg",
+      "storage_path": "media/ad_pro/images/ad-pro-poster_mkv77j.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@ddc62b10a9333ae0b2083ff0967c607b1720a763/media/ad_pro/images/ad-pro-poster_mkv77j.jpg",
+      "mime_type": "image/jpeg",
+      "size": 216235,
+      "created_at": "2026-08-31T07:14:17.440Z",
+      "commit_sha": "ddc62b10a9333ae0b2083ff0967c607b1720a763"
     }
   ]
 }
