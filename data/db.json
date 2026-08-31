@@ -164,6 +164,17 @@
       "size": 863549,
       "created_at": "2026-08-31T07:13:29.605Z",
       "commit_sha": "65ea443589cdf80a6a76c568294ae36d6e37f01c"
+    },
+    {
+      "id": "69937a06-5751-4158-94f5-2777d2e2d456",
+      "folder_id": "c2d91a7f-09ef-4599-a8ff-f47a21659abf",
+      "filename": "gif_ad-pro_l0nn6e.gif",
+      "storage_path": "media/ad_pro/images/gif_ad-pro_l0nn6e.gif",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@af07762bcc6639b52f0250f4708958cd33312c82/media/ad_pro/images/gif_ad-pro_l0nn6e.gif",
+      "mime_type": "image/gif",
+      "size": 194842,
+      "created_at": "2026-08-31T07:13:32.951Z",
+      "commit_sha": "af07762bcc6639b52f0250f4708958cd33312c82"
     }
   ]
 }
