@@ -99,6 +99,17 @@
       "size": 162972,
       "created_at": "2026-08-31T07:05:20.076Z",
       "commit_sha": "7db5b5bca77306a1722dace581b771a7171eb1d5"
+    },
+    {
+      "id": "c1b51c89-ec14-497e-b0cd-0c2e32838fd6",
+      "folder_id": "c82249dc-6bb5-41b9-bc27-3d302ad30226",
+      "filename": "collagen-website108k.jpg",
+      "storage_path": "media/ad_collagen/images/collagen-website108k.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@dd6d1e1382d7d6aed310e7c1d580ad3b122e97a9/media/ad_collagen/images/collagen-website108k.jpg",
+      "mime_type": "image/jpeg",
+      "size": 121680,
+      "created_at": "2026-08-31T07:05:50.627Z",
+      "commit_sha": "dd6d1e1382d7d6aed310e7c1d580ad3b122e97a9"
     }
   ]
 }
