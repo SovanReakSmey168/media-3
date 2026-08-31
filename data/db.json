@@ -311,6 +311,17 @@
       "size": 184399,
       "created_at": "2026-08-31T07:29:51.501Z",
       "commit_sha": "a9376e0f22ed06ec2a833be7b174f05bd6b26481"
+    },
+    {
+      "id": "7ff8c643-176c-4bd1-9d2f-59fea03e96ed",
+      "folder_id": "9681edf1-f413-48bb-ab3f-5e642217cb77",
+      "filename": "ad-iq-banner_mb.jpg",
+      "storage_path": "media/website_banner/images/ad-iq-banner_mb.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@958d7ff9ea78c4e996293c5eee1283042591b8a5/media/website_banner/images/ad-iq-banner_mb.jpg",
+      "mime_type": "image/jpeg",
+      "size": 617750,
+      "created_at": "2026-08-31T07:45:11.599Z",
+      "commit_sha": "958d7ff9ea78c4e996293c5eee1283042591b8a5"
     }
   ]
 }
