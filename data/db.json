@@ -22,17 +22,6 @@
       "size": 2571549,
       "created_at": "2026-08-31T04:02:16.578Z",
       "commit_sha": "5353f52679b56a195f71d3287d1dedd20b88400b"
-    },
-    {
-      "id": "f7ce3ecb-8b9d-4efa-a1ce-f204067bc9e8",
-      "folder_id": "dbd0cfaa-3367-4c6b-9486-eba090206ede",
-      "filename": "477486524_2440016786358705_6687622586618099086_n.jpg",
-      "storage_path": "media/testing/images/477486524_2440016786358705_6687622586618099086_n.jpg",
-      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8f9901d4ad2953b7fc1b08679627b89575088922/media/testing/images/477486524_2440016786358705_6687622586618099086_n.jpg",
-      "mime_type": "image/jpeg",
-      "size": 338432,
-      "created_at": "2026-08-31T04:02:22.771Z",
-      "commit_sha": "8f9901d4ad2953b7fc1b08679627b89575088922"
     }
   ]
 }
