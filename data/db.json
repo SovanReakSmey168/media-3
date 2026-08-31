@@ -568,6 +568,17 @@
       "size": 1730948,
       "created_at": "2026-08-31T08:10:17.296Z",
       "commit_sha": "80e81895e58e8f39003fb97677b02180418e3e58"
+    },
+    {
+      "id": "d27fa271-0e3a-40dd-8221-581a77dd5430",
+      "folder_id": "4c4cec8a-c60e-438a-93e6-640d3bf35500",
+      "filename": "lychee_tea_03_d74wk3.jpg",
+      "storage_path": "media/lychee_tea/images/lychee_tea_03_d74wk3.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@3783bf6bcb6b62d876d46e2a0a7f07fda66cc40b/media/lychee_tea/images/lychee_tea_03_d74wk3.jpg",
+      "mime_type": "image/jpeg",
+      "size": 373476,
+      "created_at": "2026-08-31T08:12:13.000Z",
+      "commit_sha": "3783bf6bcb6b62d876d46e2a0a7f07fda66cc40b"
     }
   ]
 }
