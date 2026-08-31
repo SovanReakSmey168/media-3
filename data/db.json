@@ -541,6 +541,17 @@
       "size": 197199,
       "created_at": "2026-08-31T08:09:06.753Z",
       "commit_sha": "26fd4cf18f4fa09ab02dc870e3e8f3131ab7db69"
+    },
+    {
+      "id": "528d40d2-5455-4f4b-8b2a-70de998acc54",
+      "folder_id": "8c06b26a-8c77-461d-bf47-07d79f18f763",
+      "filename": "grape_tea_xdvtrc.mp4",
+      "storage_path": "media/greap_tea/videos/grape_tea_xdvtrc.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@2d7840cb7c9086a4e6e5ba481e0a5d42fd770b84/media/greap_tea/videos/grape_tea_xdvtrc.mp4",
+      "mime_type": "video/mp4",
+      "size": 1141695,
+      "created_at": "2026-08-31T08:09:13.096Z",
+      "commit_sha": "2d7840cb7c9086a4e6e5ba481e0a5d42fd770b84"
     }
   ]
 }
