@@ -355,6 +355,17 @@
       "size": 845984,
       "created_at": "2026-08-31T07:46:04.047Z",
       "commit_sha": "024d63bd5a87d54e93f713e49fe624c225fb0b87"
+    },
+    {
+      "id": "20bde834-2af5-4c2d-a57d-bd7dc20c2892",
+      "folder_id": "9681edf1-f413-48bb-ab3f-5e642217cb77",
+      "filename": "yogurt_pc.jpg",
+      "storage_path": "media/website_banner/images/yogurt_pc.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@a6d2fb9fe89238a86ec52821311a68c593418797/media/website_banner/images/yogurt_pc.jpg",
+      "mime_type": "image/jpeg",
+      "size": 726369,
+      "created_at": "2026-08-31T07:47:34.409Z",
+      "commit_sha": "a6d2fb9fe89238a86ec52821311a68c593418797"
     }
   ]
 }
