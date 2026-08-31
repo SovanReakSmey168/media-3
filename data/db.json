@@ -803,6 +803,17 @@
       "size": 898481,
       "created_at": "2026-08-31T08:36:40.425Z",
       "commit_sha": "2a5e6cf6573a2cad051a7f6b343dd49c80d286b4"
+    },
+    {
+      "id": "2ea0e76c-9ea2-4d9f-8474-afde978e14a8",
+      "folder_id": "c7d66df1-48fe-47c9-9d2e-405a19e8c127",
+      "filename": "teaposter-380.png_e95etz.jpg",
+      "storage_path": "media/_380_ml/images/teaposter-380.png_e95etz.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@510ca6331a3a93a0cc9003b5ee28322b489f932f/media/_380_ml/images/teaposter-380.png_e95etz.jpg",
+      "mime_type": "image/jpeg",
+      "size": 294073,
+      "created_at": "2026-08-31T08:36:43.445Z",
+      "commit_sha": "510ca6331a3a93a0cc9003b5ee28322b489f932f"
     }
   ]
 }
