@@ -601,6 +601,17 @@
       "size": 525870,
       "created_at": "2026-08-31T08:12:19.770Z",
       "commit_sha": "68a4bbf376189e5b98624ccb6367954101b3d31c"
+    },
+    {
+      "id": "57db1179-28eb-4c73-a07f-78264c1f094c",
+      "folder_id": "4c4cec8a-c60e-438a-93e6-640d3bf35500",
+      "filename": "lychee_memhak.jpg",
+      "storage_path": "media/lychee_tea/images/lychee_memhak.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@5c8d9731866a89a7da87c56f3be0f569f8d8110a/media/lychee_tea/images/lychee_memhak.jpg",
+      "mime_type": "image/jpeg",
+      "size": 468407,
+      "created_at": "2026-08-31T08:12:23.050Z",
+      "commit_sha": "5c8d9731866a89a7da87c56f3be0f569f8d8110a"
     }
   ]
 }
