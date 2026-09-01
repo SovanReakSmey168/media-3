@@ -1648,6 +1648,17 @@
       "size": 101061,
       "created_at": "2026-09-01T07:06:52.221Z",
       "commit_sha": "744e57d8dade981487d7ea865d015c8d0ff32d33"
+    },
+    {
+      "id": "74c4fe82-b7c3-42df-a43e-ecf12dd9874f",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "18_firefly_q_a.mp3",
+      "storage_path": "media/kid2/audio/18_firefly_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@de67343680a316966dde409e750b7159bffd4b2d/media/kid2/audio/18_firefly_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 195499,
+      "created_at": "2026-09-01T07:07:05.768Z",
+      "commit_sha": "de67343680a316966dde409e750b7159bffd4b2d"
     }
   ]
 }
