@@ -2505,6 +2505,17 @@
       "size": 66261,
       "created_at": "2026-09-01T08:14:22.560Z",
       "commit_sha": "e46fb21019462cbca4199297fc4f8b4f56a5fdcc"
+    },
+    {
+      "id": "688344b1-3c4b-4bcd-9b84-008ff59988f4",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "49_naga_story.mp3",
+      "storage_path": "media/kid4/audio/49_naga_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@e1677e0d2d5b768149d0e0bb74128a010d5ea802/media/kid4/audio/49_naga_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1422189,
+      "created_at": "2026-09-01T08:14:31.762Z",
+      "commit_sha": "e1677e0d2d5b768149d0e0bb74128a010d5ea802"
     }
   ]
 }
