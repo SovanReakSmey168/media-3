@@ -1494,6 +1494,17 @@
       "size": 236635,
       "created_at": "2026-09-01T07:01:51.057Z",
       "commit_sha": "c6855cf1ff8c97b7868d86a91dbc48b4d27bbea6"
+    },
+    {
+      "id": "70952d08-460b-4190-b5e3-34d589637e21",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "07_cat_story.mp3",
+      "storage_path": "media/kid2/audio/07_cat_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@50b9904b49e794e502efdacc6ece39f4d85a0a31/media/kid2/audio/07_cat_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 642453,
+      "created_at": "2026-09-01T07:01:55.860Z",
+      "commit_sha": "50b9904b49e794e502efdacc6ece39f4d85a0a31"
     }
   ]
 }
