@@ -2148,6 +2148,17 @@
       "size": 111510,
       "created_at": "2026-09-01T07:51:30.757Z",
       "commit_sha": "be386e3c5fe25c55ab99963dba2f808db1ebae3d"
+    },
+    {
+      "id": "fbddd87e-5735-4f49-b048-4b8ce23778d2",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "32_owl_q_a.mp3",
+      "storage_path": "media/kid3/audio/32_owl_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@ea7c137713fc6d93479a16987e7411757f31d34a/media/kid3/audio/32_owl_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 70221,
+      "created_at": "2026-09-01T07:51:38.650Z",
+      "commit_sha": "ea7c137713fc6d93479a16987e7411757f31d34a"
     }
   ]
 }
