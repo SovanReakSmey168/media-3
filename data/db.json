@@ -1005,6 +1005,17 @@
       "size": 171859,
       "created_at": "2026-09-01T03:33:44.421Z",
       "commit_sha": "68609d5c5319fe062a8a61e25cb5d958653208c3"
+    },
+    {
+      "id": "96f970b5-44d4-4f84-8cd0-82b15ae046dc",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "17.elephant_sound.mp3",
+      "storage_path": "media/kid1/audio/17.elephant_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@757775a98adcb3cd001c352f93c11589419e9d0b/media/kid1/audio/17.elephant_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 35525,
+      "created_at": "2026-09-01T03:34:26.294Z",
+      "commit_sha": "757775a98adcb3cd001c352f93c11589419e9d0b"
     }
   ]
 }
