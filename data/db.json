@@ -2159,6 +2159,17 @@
       "size": 70221,
       "created_at": "2026-09-01T07:51:38.650Z",
       "commit_sha": "ea7c137713fc6d93479a16987e7411757f31d34a"
+    },
+    {
+      "id": "153045c1-bc51-4f44-8c34-856a3919701e",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "32_owl_story.mp3",
+      "storage_path": "media/kid3/audio/32_owl_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8577d94566239f852e5ca783e3bb238493687b1f/media/kid3/audio/32_owl_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 694461,
+      "created_at": "2026-09-01T07:51:52.115Z",
+      "commit_sha": "8577d94566239f852e5ca783e3bb238493687b1f"
     }
   ]
 }
