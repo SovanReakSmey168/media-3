@@ -2230,6 +2230,17 @@
       "size": 955773,
       "created_at": "2026-09-01T07:56:44.960Z",
       "commit_sha": "cf231ed12b9d358a0edfa757ef398355e86aa598"
+    },
+    {
+      "id": "46a2960d-1567-458c-828f-1b34274520ee",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "34.panda_sound.mp3",
+      "storage_path": "media/kid4/audio/34.panda_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8329599b343a2c3234f175378f16846c12ca7a72/media/kid4/audio/34.panda_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 95012,
+      "created_at": "2026-09-01T07:56:49.813Z",
+      "commit_sha": "8329599b343a2c3234f175378f16846c12ca7a72"
     }
   ]
 }
