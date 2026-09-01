@@ -1994,6 +1994,17 @@
       "size": 207931,
       "created_at": "2026-09-01T07:42:48.028Z",
       "commit_sha": "6059aa6d0cbae2e52e94e1d2ba427211d77dd3f0"
+    },
+    {
+      "id": "03dc27b6-b93f-41d6-a9e8-9b31e819ec4e",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "22_giraffe_story.mp3",
+      "storage_path": "media/kid3/audio/22_giraffe_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@0224c9a71e0f165e6900de51ec67b4dfdd3e3bcc/media/kid3/audio/22_giraffe_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 547197,
+      "created_at": "2026-09-01T07:49:12.569Z",
+      "commit_sha": "0224c9a71e0f165e6900de51ec67b4dfdd3e3bcc"
     }
   ]
 }
