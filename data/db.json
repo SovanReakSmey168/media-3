@@ -2587,6 +2587,17 @@
       "size": 1000200,
       "created_at": "2026-09-01T08:16:56.747Z",
       "commit_sha": "30445fa263c3fb4bd548cdcddf173873cd0d2931"
+    },
+    {
+      "id": "91dd9cbe-b10c-41e5-99eb-f6f1b9b230c7",
+      "folder_id": "f17e680e-eea2-44aa-8db7-c8fd467207df",
+      "filename": "04.bee_sound_.mp3",
+      "storage_path": "media/kid5/audio/04.bee_sound_.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@c3554add5928c0237d6e66c5ad7e33815bd98074/media/kid5/audio/04.bee_sound_.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 229985,
+      "created_at": "2026-09-01T08:17:01.872Z",
+      "commit_sha": "c3554add5928c0237d6e66c5ad7e33815bd98074"
     }
   ]
 }
