@@ -2719,6 +2719,17 @@
       "size": 79579,
       "created_at": "2026-09-01T08:19:03.986Z",
       "commit_sha": "7f477864549a21e5b87b176c9bf86146d3fdbee6"
+    },
+    {
+      "id": "9e74758b-7942-4642-9143-80b93e380375",
+      "folder_id": "f17e680e-eea2-44aa-8db7-c8fd467207df",
+      "filename": "16_duck_q_a.mp3",
+      "storage_path": "media/kid5/audio/16_duck_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@f50279bbed583b47415a658ebe8fda6453d8eb2e/media/kid5/audio/16_duck_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 195979,
+      "created_at": "2026-09-01T08:19:19.382Z",
+      "commit_sha": "f50279bbed583b47415a658ebe8fda6453d8eb2e"
     }
   ]
 }
