@@ -890,6 +890,17 @@
       "size": 106147,
       "created_at": "2026-09-01T01:19:28.385Z",
       "commit_sha": "680338ad77858ad9b1839c67b8c486ce4e724e4b"
+    },
+    {
+      "id": "4b0ab5b4-427b-4980-b239-a2a4fae92290",
+      "folder_id": "a02e931c-9535-46f4-83bb-d30cda244adb",
+      "filename": "photo_2026-08-27_16-57-20.jpg",
+      "storage_path": "media/poster/images/photo_2026-08-27_16-57-20.jpg",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@205b00e6c7be22ced48c34f7f7f048ab708280a6/media/poster/images/photo_2026-08-27_16-57-20.jpg",
+      "mime_type": "image/jpeg",
+      "size": 165092,
+      "created_at": "2026-09-01T01:19:31.437Z",
+      "commit_sha": "205b00e6c7be22ced48c34f7f7f048ab708280a6"
     }
   ]
 }
