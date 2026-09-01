@@ -1126,6 +1126,17 @@
       "size": 951796,
       "created_at": "2026-09-01T03:38:32.521Z",
       "commit_sha": "ce62c8fdb02d07cda67efacbcc653e3b864bf40d"
+    },
+    {
+      "id": "983b3e94-d9d1-49c2-bbdd-f151e129fc83",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "20.frog_sound.mp3",
+      "storage_path": "media/kid1/audio/20.frog_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@2fd628586f2b9a1bae5654dcb6baec01e5ee6c00/media/kid1/audio/20.frog_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 95221,
+      "created_at": "2026-09-01T03:38:46.176Z",
+      "commit_sha": "2fd628586f2b9a1bae5654dcb6baec01e5ee6c00"
     }
   ]
 }
