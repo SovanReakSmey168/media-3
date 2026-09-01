@@ -1472,6 +1472,17 @@
       "size": 49449,
       "created_at": "2026-09-01T07:01:20.437Z",
       "commit_sha": "4c51cce81b193e27518ef56814a2581eedf153bb"
+    },
+    {
+      "id": "6bb6fcf5-ae65-493f-8257-1aa4fb2a6285",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "06.camel.mp4",
+      "storage_path": "media/kid2/videos/06.camel.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@be4ca60512ac12efa3f4f41567b5f81a38597a90/media/kid2/videos/06.camel.mp4",
+      "mime_type": "video/mp4",
+      "size": 1306221,
+      "created_at": "2026-09-01T07:01:35.322Z",
+      "commit_sha": "be4ca60512ac12efa3f4f41567b5f81a38597a90"
     }
   ]
 }
