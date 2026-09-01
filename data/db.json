@@ -2082,6 +2082,17 @@
       "size": 36289,
       "created_at": "2026-09-01T07:50:27.763Z",
       "commit_sha": "e4b3996e7b64b92e3304b32542552e5cc6dab028"
+    },
+    {
+      "id": "eeda6062-623b-4799-9a70-525cb19b1aca",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "30.mouse_spell.mp3",
+      "storage_path": "media/kid3/audio/30.mouse_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@bd63da00ab4fe7d08083346e53e74ec2d5d93392/media/kid3/audio/30.mouse_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 103360,
+      "created_at": "2026-09-01T07:50:38.111Z",
+      "commit_sha": "bd63da00ab4fe7d08083346e53e74ec2d5d93392"
     }
   ]
 }
