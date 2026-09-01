@@ -1703,6 +1703,17 @@
       "size": 129273,
       "created_at": "2026-09-01T07:08:04.933Z",
       "commit_sha": "b92f61680542c6967f72fa31a914e37acf2df19e"
+    },
+    {
+      "id": "95978de4-b19e-47d0-85fb-eeef29170708",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "28_lion_q_a.mp3",
+      "storage_path": "media/kid2/audio/28_lion_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@9be358aad4320c5dfa9d3a84e0ddf1e545a3a7d4/media/kid2/audio/28_lion_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 201691,
+      "created_at": "2026-09-01T07:08:17.586Z",
+      "commit_sha": "9be358aad4320c5dfa9d3a84e0ddf1e545a3a7d4"
     }
   ]
 }
