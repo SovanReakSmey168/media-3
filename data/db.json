@@ -2071,6 +2071,17 @@
       "size": 893763,
       "created_at": "2026-09-01T07:50:20.295Z",
       "commit_sha": "db12bd102fb2618ead66c62ce8bd5196954aba65"
+    },
+    {
+      "id": "3a3bdd14-a5d5-4a82-ac4b-da7e3df15f21",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "30.mouse_sound.mp3",
+      "storage_path": "media/kid3/audio/30.mouse_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@e4b3996e7b64b92e3304b32542552e5cc6dab028/media/kid3/audio/30.mouse_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 36289,
+      "created_at": "2026-09-01T07:50:27.763Z",
+      "commit_sha": "e4b3996e7b64b92e3304b32542552e5cc6dab028"
     }
   ]
 }
