@@ -1439,6 +1439,17 @@
       "size": 977733,
       "created_at": "2026-09-01T07:01:00.313Z",
       "commit_sha": "f1313736ff323c4034ab2d0c3fcb11aef86dbb5a"
+    },
+    {
+      "id": "bb0efcca-d40b-4766-815c-8b535ca8f198",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "06_camel_q_a.mp3",
+      "storage_path": "media/kid2/audio/06_camel_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@26ae3fd29c4d7dfa1aa2c81595128804d968d254/media/kid2/audio/06_camel_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 79149,
+      "created_at": "2026-09-01T07:01:03.317Z",
+      "commit_sha": "26ae3fd29c4d7dfa1aa2c81595128804d968d254"
     }
   ]
 }
