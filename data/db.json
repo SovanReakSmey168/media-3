@@ -2329,6 +2329,17 @@
       "size": 61701,
       "created_at": "2026-09-01T08:01:49.606Z",
       "commit_sha": "9abde8d741eee0373dafef2841ad08e6ee7ae165"
+    },
+    {
+      "id": "49ac3ff2-19ad-4744-9823-c6fb2e4832e0",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "39_ribbit_story.mp3",
+      "storage_path": "media/kid4/audio/39_ribbit_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@cca8c3ca51bf4197ce7111ea1f968f88aeb4b085/media/kid4/audio/39_ribbit_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 817677,
+      "created_at": "2026-09-01T08:01:55.978Z",
+      "commit_sha": "cca8c3ca51bf4197ce7111ea1f968f88aeb4b085"
     }
   ]
 }
