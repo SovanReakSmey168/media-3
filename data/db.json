@@ -1203,6 +1203,17 @@
       "size": 914571,
       "created_at": "2026-09-01T03:41:46.905Z",
       "commit_sha": "03d40148b1ea89d7c2ae1a5012db34489cbe672b"
+    },
+    {
+      "id": "7aeebf5b-abcf-4eb9-9dc3-2ca1ad0b948e",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "29_monkey_qa.mp3",
+      "storage_path": "media/kid1/audio/29_monkey_qa.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@7f28e447ab9edd15a2f06d93c70b1b4124331e22/media/kid1/audio/29_monkey_qa.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 71829,
+      "created_at": "2026-09-01T03:42:00.285Z",
+      "commit_sha": "7f28e447ab9edd15a2f06d93c70b1b4124331e22"
     }
   ]
 }
