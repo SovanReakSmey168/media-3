@@ -1016,6 +1016,17 @@
       "size": 35525,
       "created_at": "2026-09-01T03:34:26.294Z",
       "commit_sha": "757775a98adcb3cd001c352f93c11589419e9d0b"
+    },
+    {
+      "id": "a00b9d8e-f4ed-43df-b628-72dc6da2eb93",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "17.elephant_spell.mp3",
+      "storage_path": "media/kid1/audio/17.elephant_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8b842f43c2d6f3d16265f4734cc1997e89d23b0f/media/kid1/audio/17.elephant_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 135451,
+      "created_at": "2026-09-01T03:34:30.200Z",
+      "commit_sha": "8b842f43c2d6f3d16265f4734cc1997e89d23b0f"
     }
   ]
 }
