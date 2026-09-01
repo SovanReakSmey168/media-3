@@ -1791,6 +1791,17 @@
       "size": 1983552,
       "created_at": "2026-09-01T07:10:06.436Z",
       "commit_sha": "ebdd52c269fa71575d0a23eec5e4b5c449d6c212"
+    },
+    {
+      "id": "c8d82f86-487c-4472-8718-e24eb48bb219",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "36.penquin_sound.mp3",
+      "storage_path": "media/kid2/audio/36.penquin_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@0077bc1fbcd887ee534934728bc5bcfaf8e4a4f2/media/kid2/audio/36.penquin_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 103162,
+      "created_at": "2026-09-01T07:10:21.388Z",
+      "commit_sha": "0077bc1fbcd887ee534934728bc5bcfaf8e4a4f2"
     }
   ]
 }
