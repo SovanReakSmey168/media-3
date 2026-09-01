@@ -1170,6 +1170,17 @@
       "size": 62037,
       "created_at": "2026-09-01T03:39:56.828Z",
       "commit_sha": "ae771644a0a108f0a69bc29299227a7099159971"
+    },
+    {
+      "id": "b9838db9-33d2-472b-99a1-ed3dc45d1044",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "27.kangaroo_sound.mp3",
+      "storage_path": "media/kid1/audio/27.kangaroo_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@cd6714d057058eaedeecaf9385620aa596955fe3/media/kid1/audio/27.kangaroo_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 27303,
+      "created_at": "2026-09-01T03:40:52.506Z",
+      "commit_sha": "cd6714d057058eaedeecaf9385620aa596955fe3"
     }
   ]
 }
