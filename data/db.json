@@ -2027,6 +2027,17 @@
       "size": 36095,
       "created_at": "2026-09-01T07:49:36.775Z",
       "commit_sha": "2185054bfcf854385d0b8c5746e4b2c594b2cd42"
+    },
+    {
+      "id": "787f0299-638f-4378-a4c9-25bf03c6c728",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "22.giraffe_spell.mp3",
+      "storage_path": "media/kid3/audio/22.giraffe_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@6969632465c96c5ba7677a51152de2f588cfa33d/media/kid3/audio/22.giraffe_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 116944,
+      "created_at": "2026-09-01T07:49:50.940Z",
+      "commit_sha": "6969632465c96c5ba7677a51152de2f588cfa33d"
     }
   ]
 }
