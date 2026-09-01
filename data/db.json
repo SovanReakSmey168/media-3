@@ -2307,6 +2307,17 @@
       "size": 115701,
       "created_at": "2026-09-01T08:01:31.478Z",
       "commit_sha": "f1e2e959d6a19c0fa721a4ed527bf50896b7a283"
+    },
+    {
+      "id": "a134c820-f08f-48b9-bce5-6e5b75333993",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "35.peacock_spell.mp3",
+      "storage_path": "media/kid4/audio/35.peacock_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@4c0752e9947c6ef3baf0cce78261434bab7773e6/media/kid4/audio/35.peacock_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 116317,
+      "created_at": "2026-09-01T08:01:42.207Z",
+      "commit_sha": "4c0752e9947c6ef3baf0cce78261434bab7773e6"
     }
   ]
 }
