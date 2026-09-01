@@ -1802,6 +1802,17 @@
       "size": 103162,
       "created_at": "2026-09-01T07:10:21.388Z",
       "commit_sha": "0077bc1fbcd887ee534934728bc5bcfaf8e4a4f2"
+    },
+    {
+      "id": "f4348a56-e1e1-48c3-8655-715bd7b1c012",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "36.penquin_spell.mp3",
+      "storage_path": "media/kid2/audio/36.penquin_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@ec2c416ea2e71b5411ce7e160222dd749fffc96b/media/kid2/audio/36.penquin_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 115063,
+      "created_at": "2026-09-01T07:10:27.049Z",
+      "commit_sha": "ec2c416ea2e71b5411ce7e160222dd749fffc96b"
     }
   ]
 }
