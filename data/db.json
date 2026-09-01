@@ -2104,6 +2104,17 @@
       "size": 84069,
       "created_at": "2026-09-01T07:50:48.933Z",
       "commit_sha": "fcfbd3995107d062b9d8f9e56d8b8476e5138db8"
+    },
+    {
+      "id": "d7d95df7-80c6-4124-9d56-d0ad3cc24d8b",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "31_eagle_story.mp3",
+      "storage_path": "media/kid3/audio/31_eagle_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@68281694408605e3fb5f1caad1ef4d6c01e5695d/media/kid3/audio/31_eagle_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 492549,
+      "created_at": "2026-09-01T07:50:57.334Z",
+      "commit_sha": "68281694408605e3fb5f1caad1ef4d6c01e5695d"
     }
   ]
 }
