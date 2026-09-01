@@ -1582,6 +1582,17 @@
       "size": 49583,
       "created_at": "2026-09-01T07:05:11.433Z",
       "commit_sha": "9eaa115001217268c05777198d84bb4d0e5f5275"
+    },
+    {
+      "id": "897312c0-7856-4b8d-a3c2-1bd54f9a6ee0",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "11.crab-spell.mp3",
+      "storage_path": "media/kid2/audio/11.crab-spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@365062707b3fb0bfdba6dc37664a66b08dfec276/media/kid2/audio/11.crab-spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 78427,
+      "created_at": "2026-09-01T07:05:22.110Z",
+      "commit_sha": "365062707b3fb0bfdba6dc37664a66b08dfec276"
     }
   ]
 }
