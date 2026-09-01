@@ -1269,6 +1269,17 @@
       "size": 63429,
       "created_at": "2026-09-01T03:44:49.750Z",
       "commit_sha": "6c7174d20c5e1cdcb20ec2fc6e38c43c8c483e31"
+    },
+    {
+      "id": "e60aaa8f-bda4-477c-b8b9-029b183d30f4",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "33_parrot_story.mp3",
+      "storage_path": "media/kid1/audio/33_parrot_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@2597186b5f9913d3f5adacca1b6409a836724d3e/media/kid1/audio/33_parrot_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1193589,
+      "created_at": "2026-09-01T03:45:02.636Z",
+      "commit_sha": "2597186b5f9913d3f5adacca1b6409a836724d3e"
     }
   ]
 }
