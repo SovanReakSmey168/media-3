@@ -2049,6 +2049,17 @@
       "size": 64773,
       "created_at": "2026-09-01T07:50:04.769Z",
       "commit_sha": "5dbb987b2ae047c7c71b20b5d69e277f414176f9"
+    },
+    {
+      "id": "05de1640-e19f-4448-98ec-3719390900ad",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "30_mouse_story.mp3",
+      "storage_path": "media/kid3/audio/30_mouse_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@7f9b33bf454f243b5401679883cb1c00aeac36ce/media/kid3/audio/30_mouse_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 861717,
+      "created_at": "2026-09-01T07:50:12.658Z",
+      "commit_sha": "7f9b33bf454f243b5401679883cb1c00aeac36ce"
     }
   ]
 }
