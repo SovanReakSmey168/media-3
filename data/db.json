@@ -2274,6 +2274,17 @@
       "size": 68781,
       "created_at": "2026-09-01T08:01:10.201Z",
       "commit_sha": "a1a6cc4db509157c8d2c1a854641fdd18f690221"
+    },
+    {
+      "id": "5d34d95d-d3d9-4d99-b7b8-5c1e982b0604",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "35_peacock_story.mp3",
+      "storage_path": "media/kid4/audio/35_peacock_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@624f6f3e88eba7dd96f9247012211e6491316b79/media/kid4/audio/35_peacock_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 917877,
+      "created_at": "2026-09-01T08:01:16.966Z",
+      "commit_sha": "624f6f3e88eba7dd96f9247012211e6491316b79"
     }
   ]
 }
