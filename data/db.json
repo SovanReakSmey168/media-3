@@ -1302,6 +1302,17 @@
       "size": 95848,
       "created_at": "2026-09-01T03:45:31.344Z",
       "commit_sha": "8bd25945a8206aab1f89c95d2480ac651335ff18"
+    },
+    {
+      "id": "81aafed8-3c8b-400a-ac16-2944f02f7d85",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "33.parrot_spell_2.mp3",
+      "storage_path": "media/kid1/audio/33.parrot_spell_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@559f303d8aa0dac9fe60e1ad7f01a1ed67eb511d/media/kid1/audio/33.parrot_spell_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 103778,
+      "created_at": "2026-09-01T03:45:55.554Z",
+      "commit_sha": "559f303d8aa0dac9fe60e1ad7f01a1ed67eb511d"
     }
   ]
 }
