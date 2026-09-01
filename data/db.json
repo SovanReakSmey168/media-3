@@ -1906,6 +1906,17 @@
       "size": 65030,
       "created_at": "2026-09-01T07:38:53.900Z",
       "commit_sha": "f6455b3481e566fc22318038d5930d8c6ef461ad"
+    },
+    {
+      "id": "394c3cd3-9732-4e2e-abdb-6e2a4310bd77",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "13.deer_spell_2.mp3",
+      "storage_path": "media/kid3/audio/13.deer_spell_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@45323c0757843dcea7b5e167ad2d8e8f9e739c4a/media/kid3/audio/13.deer_spell_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 83716,
+      "created_at": "2026-09-01T07:38:58.092Z",
+      "commit_sha": "45323c0757843dcea7b5e167ad2d8e8f9e739c4a"
     }
   ]
 }
