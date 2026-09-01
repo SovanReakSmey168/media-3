@@ -1049,6 +1049,17 @@
       "size": 567213,
       "created_at": "2026-09-01T03:35:58.198Z",
       "commit_sha": "dbb7fb5c2233a2dadfc42e231225e7007fefa477"
+    },
+    {
+      "id": "bc021c93-d63d-43be-9fa1-058735275c42",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "19_fox_q_a.mp3",
+      "storage_path": "media/kid1/audio/19_fox_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@1f00d2552f8db82d1b568aa0649405c913747703/media/kid1/audio/19_fox_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 80013,
+      "created_at": "2026-09-01T03:36:01.484Z",
+      "commit_sha": "1f00d2552f8db82d1b568aa0649405c913747703"
     }
   ]
 }
