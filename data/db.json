@@ -2527,6 +2527,17 @@
       "size": 2481100,
       "created_at": "2026-09-01T08:14:41.279Z",
       "commit_sha": "158deff6832f4ec3867547f4f3e08efb26808201"
+    },
+    {
+      "id": "82d5b066-9908-4b29-97c7-9a761fac443c",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "49.dragon_sound_2.mp3",
+      "storage_path": "media/kid4/audio/49.dragon_sound_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@b2aeebfab0c6da7ff2e91868a2d4e83577bca5dc/media/kid4/audio/49.dragon_sound_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 14335,
+      "created_at": "2026-09-01T08:14:48.200Z",
+      "commit_sha": "b2aeebfab0c6da7ff2e91868a2d4e83577bca5dc"
     }
   ]
 }
