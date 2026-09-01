@@ -1692,6 +1692,17 @@
       "size": 87895,
       "created_at": "2026-09-01T07:07:47.593Z",
       "commit_sha": "be9df7c5a3e39b971d951eb9f6c7fedb2062d355"
+    },
+    {
+      "id": "b48fb889-bc21-4692-aead-c147db87359b",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "18.firefly_spell.mp3",
+      "storage_path": "media/kid2/audio/18.firefly_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@b92f61680542c6967f72fa31a914e37acf2df19e/media/kid2/audio/18.firefly_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 129273,
+      "created_at": "2026-09-01T07:08:04.933Z",
+      "commit_sha": "b92f61680542c6967f72fa31a914e37acf2df19e"
     }
   ]
 }
