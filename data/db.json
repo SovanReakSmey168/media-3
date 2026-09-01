@@ -2362,6 +2362,17 @@
       "size": 101635,
       "created_at": "2026-09-01T08:02:08.518Z",
       "commit_sha": "98ed0eaf1c12f11effcb37003ac64fbe69451cc9"
+    },
+    {
+      "id": "8cbc8ef4-b81f-4f61-b6de-c96d095eede4",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "39.rabbit_sound.mp3",
+      "storage_path": "media/kid4/audio/39.rabbit_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8efce2f7a4f6b59482c190fb0c52240a042b8467/media/kid4/audio/39.rabbit_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 22986,
+      "created_at": "2026-09-01T08:03:01.828Z",
+      "commit_sha": "8efce2f7a4f6b59482c190fb0c52240a042b8467"
     }
   ]
 }
