@@ -1769,6 +1769,17 @@
       "size": 72021,
       "created_at": "2026-09-01T07:09:42.758Z",
       "commit_sha": "ece9cc3bc64337dcf0bfded2667ca150e6b79842"
+    },
+    {
+      "id": "d261c662-431f-49cb-9ae1-4f8de700fb2e",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "36_penguin_story.mp3",
+      "storage_path": "media/kid2/audio/36_penguin_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@9fe11bec408ee5d29fb1f4b2a080541cc4f3d023/media/kid2/audio/36_penguin_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 762837,
+      "created_at": "2026-09-01T07:09:51.702Z",
+      "commit_sha": "9fe11bec408ee5d29fb1f4b2a080541cc4f3d023"
     }
   ]
 }
