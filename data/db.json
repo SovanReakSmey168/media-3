@@ -2472,6 +2472,17 @@
       "size": 959430,
       "created_at": "2026-09-01T08:13:44.874Z",
       "commit_sha": "bca3a14e7848119838a916033ad4157bbedbf967"
+    },
+    {
+      "id": "d8e88656-9c70-4365-a407-d24f5370546b",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "47.tiger_sound_2.mp3",
+      "storage_path": "media/kid4/audio/47.tiger_sound_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@681294b900764c935172e867e005db4c25ad74cf/media/kid4/audio/47.tiger_sound_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 57593,
+      "created_at": "2026-09-01T08:13:55.828Z",
+      "commit_sha": "681294b900764c935172e867e005db4c25ad74cf"
     }
   ]
 }
