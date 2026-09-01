@@ -1593,6 +1593,17 @@
       "size": 78427,
       "created_at": "2026-09-01T07:05:22.110Z",
       "commit_sha": "365062707b3fb0bfdba6dc37664a66b08dfec276"
+    },
+    {
+      "id": "3b862cd0-bee0-4dc4-8182-67098463e575",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "14_dolphin_q_a.mp3",
+      "storage_path": "media/kid2/audio/14_dolphin_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@3d73536f46535a95a3f03d69467e9781a76a8e9c/media/kid2/audio/14_dolphin_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 65181,
+      "created_at": "2026-09-01T07:05:33.602Z",
+      "commit_sha": "3d73536f46535a95a3f03d69467e9781a76a8e9c"
     }
   ]
 }
