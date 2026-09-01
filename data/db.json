@@ -2450,6 +2450,17 @@
       "size": 69525,
       "created_at": "2026-09-01T08:13:27.737Z",
       "commit_sha": "5ac9fbc93715b2bc846f6a850795679495f4428c"
+    },
+    {
+      "id": "44a8351b-b20e-44d3-8e16-56384f9f5123",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "47_tiger_story.mp3",
+      "storage_path": "media/kid4/audio/47_tiger_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@93af477f70c9cb9139dd49afd0999c16b9fc5327/media/kid4/audio/47_tiger_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1273389,
+      "created_at": "2026-09-01T08:13:36.529Z",
+      "commit_sha": "93af477f70c9cb9139dd49afd0999c16b9fc5327"
     }
   ]
 }
