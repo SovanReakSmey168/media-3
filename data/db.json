@@ -961,6 +961,17 @@
       "size": 744474,
       "created_at": "2026-09-01T01:56:29.531Z",
       "commit_sha": "ac4c75d669f76f099f997d53755f95ec4db65404"
+    },
+    {
+      "id": "d927ac73-5e8d-4c9f-a890-ec8cec10f794",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "15_ostrich_q_a.mp3",
+      "storage_path": "media/kid1/audio/15_ostrich_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@fd343bdd446f2ecfeb4a6f1fbed6a9f993720e29/media/kid1/audio/15_ostrich_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 184699,
+      "created_at": "2026-09-01T01:56:57.796Z",
+      "commit_sha": "fd343bdd446f2ecfeb4a6f1fbed6a9f993720e29"
     }
   ]
 }
