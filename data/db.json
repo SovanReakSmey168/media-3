@@ -2241,6 +2241,17 @@
       "size": 95012,
       "created_at": "2026-09-01T07:56:49.813Z",
       "commit_sha": "8329599b343a2c3234f175378f16846c12ca7a72"
+    },
+    {
+      "id": "6dcb8aff-2d17-4c52-adf5-7cd359dd150c",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "34.panda_spell.mp3",
+      "storage_path": "media/kid4/audio/34.panda_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@bad8d40b0cf54bf69cd57e4a6205a8e2b3468b78/media/kid4/audio/34.panda_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 107957,
+      "created_at": "2026-09-01T07:56:56.054Z",
+      "commit_sha": "bad8d40b0cf54bf69cd57e4a6205a8e2b3468b78"
     }
   ]
 }
