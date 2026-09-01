@@ -901,6 +901,17 @@
       "size": 165092,
       "created_at": "2026-09-01T01:19:31.437Z",
       "commit_sha": "205b00e6c7be22ced48c34f7f7f048ab708280a6"
+    },
+    {
+      "id": "09c551b7-f14b-4ed7-9070-ad6bbe2b5918",
+      "folder_id": "a02e931c-9535-46f4-83bb-d30cda244adb",
+      "filename": "admin_panel_-_content_management.mp4",
+      "storage_path": "media/poster/videos/admin_panel_-_content_management.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@4626c85d1033f62c2e3ff4fc46496184e993b21b/media/poster/videos/admin_panel_-_content_management.mp4",
+      "mime_type": "video/mp4",
+      "size": 1581976,
+      "created_at": "2026-09-01T01:19:50.217Z",
+      "commit_sha": "4626c85d1033f62c2e3ff4fc46496184e993b21b"
     }
   ]
 }
