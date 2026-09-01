@@ -1637,6 +1637,17 @@
       "size": 33271,
       "created_at": "2026-09-01T07:06:38.074Z",
       "commit_sha": "6b3824976e50f04a1d44442436b6f7dcb95e0d88"
+    },
+    {
+      "id": "a1ff1d16-4e24-482c-b74d-3683a83e5631",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "14.dolphin_spell.mp3",
+      "storage_path": "media/kid2/audio/14.dolphin_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@744e57d8dade981487d7ea865d015c8d0ff32d33/media/kid2/audio/14.dolphin_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 101061,
+      "created_at": "2026-09-01T07:06:52.221Z",
+      "commit_sha": "744e57d8dade981487d7ea865d015c8d0ff32d33"
     }
   ]
 }
