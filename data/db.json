@@ -2884,6 +2884,17 @@
       "size": 90194,
       "created_at": "2026-09-01T08:21:25.826Z",
       "commit_sha": "81197b1c34a37366e5e0f8298e8920bf22b3e4c1"
+    },
+    {
+      "id": "0b0136de-168a-49e9-9318-a2b13a94c171",
+      "folder_id": "f17e680e-eea2-44aa-8db7-c8fd467207df",
+      "filename": "41_jellyfish_q_a.mp3",
+      "storage_path": "media/kid5/audio/41_jellyfish_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@f69f57ad877f9593511740c15015f8302b948187/media/kid5/audio/41_jellyfish_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 69501,
+      "created_at": "2026-09-01T08:21:34.504Z",
+      "commit_sha": "f69f57ad877f9593511740c15015f8302b948187"
     }
   ]
 }
