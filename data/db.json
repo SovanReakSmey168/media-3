@@ -1038,6 +1038,17 @@
       "size": 853019,
       "created_at": "2026-09-01T03:35:29.241Z",
       "commit_sha": "c38c53339cfa9c886b8db15126ebc977a617c164"
+    },
+    {
+      "id": "c0ddb0e2-40b7-4799-be17-1fea758c5b2f",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "19_fox_story.mp3",
+      "storage_path": "media/kid1/audio/19_fox_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@dbb7fb5c2233a2dadfc42e231225e7007fefa477/media/kid1/audio/19_fox_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 567213,
+      "created_at": "2026-09-01T03:35:58.198Z",
+      "commit_sha": "dbb7fb5c2233a2dadfc42e231225e7007fefa477"
     }
   ]
 }
