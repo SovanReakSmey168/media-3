@@ -2016,6 +2016,17 @@
       "size": 806328,
       "created_at": "2026-09-01T07:49:25.628Z",
       "commit_sha": "0c484edc7a8096727634a93ebfb8b86692bf6983"
+    },
+    {
+      "id": "461564e3-3564-4ba1-a46f-2b9bc7ec8007",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "22.giraffe_sound.mp3",
+      "storage_path": "media/kid3/audio/22.giraffe_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@2185054bfcf854385d0b8c5746e4b2c594b2cd42/media/kid3/audio/22.giraffe_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 36095,
+      "created_at": "2026-09-01T07:49:36.775Z",
+      "commit_sha": "2185054bfcf854385d0b8c5746e4b2c594b2cd42"
     }
   ]
 }
