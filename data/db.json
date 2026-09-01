@@ -1148,6 +1148,17 @@
       "size": 90821,
       "created_at": "2026-09-01T03:39:00.022Z",
       "commit_sha": "9f94b73414a4dd25303f24c701cc98427858e200"
+    },
+    {
+      "id": "34e19fc5-247f-4f4d-b421-a2bb2cf1bb4b",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "22.kangoroo_spell_2.mp3",
+      "storage_path": "media/kid1/audio/22.kangoroo_spell_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@be7e553f090c385143e73caaa3866e544cf8ce7b/media/kid1/audio/22.kangoroo_spell_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 121959,
+      "created_at": "2026-09-01T03:39:39.370Z",
+      "commit_sha": "be7e553f090c385143e73caaa3866e544cf8ce7b"
     }
   ]
 }
