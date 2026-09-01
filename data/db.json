@@ -1247,6 +1247,17 @@
       "size": 33781,
       "created_at": "2026-09-01T03:42:43.640Z",
       "commit_sha": "c7fb329cb870e4a05415df73a2e3be55f5e4639a"
+    },
+    {
+      "id": "b36eb4fd-49b2-49af-9457-83eabaacc90f",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "29.monkey_spell.mp3",
+      "storage_path": "media/kid1/audio/29.monkey_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@170f1417cc307075e2569318e91da9c1883c4053/media/kid1/audio/29.monkey_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 106077,
+      "created_at": "2026-09-01T03:42:57.412Z",
+      "commit_sha": "170f1417cc307075e2569318e91da9c1883c4053"
     }
   ]
 }
