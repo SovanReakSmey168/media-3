@@ -2219,6 +2219,17 @@
       "size": 65541,
       "created_at": "2026-09-01T07:56:38.271Z",
       "commit_sha": "df005ddd046a3b7a93536ee5558b8570c784b9b4"
+    },
+    {
+      "id": "a0ab7ef5-b6a0-423c-93f4-26bd400536af",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "34_panda_story.mp3",
+      "storage_path": "media/kid4/audio/34_panda_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@cf231ed12b9d358a0edfa757ef398355e86aa598/media/kid4/audio/34_panda_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 955773,
+      "created_at": "2026-09-01T07:56:44.960Z",
+      "commit_sha": "cf231ed12b9d358a0edfa757ef398355e86aa598"
     }
   ]
 }
