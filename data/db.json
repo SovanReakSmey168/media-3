@@ -2862,6 +2862,17 @@
       "size": 912346,
       "created_at": "2026-09-01T08:21:03.381Z",
       "commit_sha": "e4f1ad827692b42c53489865f48333c32ae8d1c0"
+    },
+    {
+      "id": "d585adc3-00bd-4c6a-9f82-ca7fde4d3f4a",
+      "folder_id": "f17e680e-eea2-44aa-8db7-c8fd467207df",
+      "filename": "26.horse_sound.mp3",
+      "storage_path": "media/kid5/audio/26.horse_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@fb98ef80ffcb4038a948cf2cd29a5a7b8515a21c/media/kid5/audio/26.horse_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 46320,
+      "created_at": "2026-09-01T08:21:10.992Z",
+      "commit_sha": "fb98ef80ffcb4038a948cf2cd29a5a7b8515a21c"
     }
   ]
 }
