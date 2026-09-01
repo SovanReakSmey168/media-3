@@ -1983,6 +1983,17 @@
       "size": 106286,
       "created_at": "2026-09-01T07:42:33.908Z",
       "commit_sha": "ff1479203d6c29c6a234d86ea48bcc7503c743e5"
+    },
+    {
+      "id": "6732d80c-46a9-4dc1-b213-bb1a62aff373",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "22_giraffe_q_a.mp3",
+      "storage_path": "media/kid3/audio/22_giraffe_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@6059aa6d0cbae2e52e94e1d2ba427211d77dd3f0/media/kid3/audio/22_giraffe_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 207931,
+      "created_at": "2026-09-01T07:42:48.028Z",
+      "commit_sha": "6059aa6d0cbae2e52e94e1d2ba427211d77dd3f0"
     }
   ]
 }
