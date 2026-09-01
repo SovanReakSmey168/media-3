@@ -1236,6 +1236,17 @@
       "size": 895284,
       "created_at": "2026-09-01T03:42:30.439Z",
       "commit_sha": "231fbf3c980d7b350a06d4ba12f57a2f193d8766"
+    },
+    {
+      "id": "a496e79a-7976-4cf2-9c1b-3d62be3df4b5",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "29.monkey_sound_2.mp3",
+      "storage_path": "media/kid1/audio/29.monkey_sound_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@c7fb329cb870e4a05415df73a2e3be55f5e4639a/media/kid1/audio/29.monkey_sound_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 33781,
+      "created_at": "2026-09-01T03:42:43.640Z",
+      "commit_sha": "c7fb329cb870e4a05415df73a2e3be55f5e4639a"
     }
   ]
 }
