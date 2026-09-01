@@ -1104,6 +1104,17 @@
       "size": 61509,
       "created_at": "2026-09-01T03:38:04.979Z",
       "commit_sha": "261fa29ab1a73376faf1663f39f7129219e21fdb"
+    },
+    {
+      "id": "5aba6b23-37cf-4c74-9d32-c9ad9b82ff33",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "20_frog_story.mp3",
+      "storage_path": "media/kid1/audio/20_frog_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@703fc35652df5ddd1505f5d413b6f74693ac2306/media/kid1/audio/20_frog_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 644085,
+      "created_at": "2026-09-01T03:38:18.296Z",
+      "commit_sha": "703fc35652df5ddd1505f5d413b6f74693ac2306"
     }
   ]
 }
