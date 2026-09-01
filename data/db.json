@@ -2395,6 +2395,17 @@
       "size": 63309,
       "created_at": "2026-09-01T08:03:16.394Z",
       "commit_sha": "ba264fab05da1f1cbe4e062c45d9e2a3da35e532"
+    },
+    {
+      "id": "1475379a-6ac5-42db-820e-c2d0bb2a08c2",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "40_seahorse_story.mp3",
+      "storage_path": "media/kid4/audio/40_seahorse_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8fa0188ea8f46845bfff4bd1984b9032e1cace13/media/kid4/audio/40_seahorse_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 825597,
+      "created_at": "2026-09-01T08:03:52.384Z",
+      "commit_sha": "8fa0188ea8f46845bfff4bd1984b9032e1cace13"
     }
   ]
 }
