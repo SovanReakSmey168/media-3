@@ -2494,6 +2494,17 @@
       "size": 97299,
       "created_at": "2026-09-01T08:14:08.570Z",
       "commit_sha": "9a4590e847f077579471bc67ef58b7b3a1f78edd"
+    },
+    {
+      "id": "23042a3f-6832-4292-a036-25b04c80f9d6",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "49_naga_q_a.mp3",
+      "storage_path": "media/kid4/audio/49_naga_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@e46fb21019462cbca4199297fc4f8b4f56a5fdcc/media/kid4/audio/49_naga_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 66261,
+      "created_at": "2026-09-01T08:14:22.560Z",
+      "commit_sha": "e46fb21019462cbca4199297fc4f8b4f56a5fdcc"
     }
   ]
 }
