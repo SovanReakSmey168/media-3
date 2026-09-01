@@ -928,6 +928,17 @@
       "size": 207639,
       "created_at": "2026-09-01T01:25:48.030Z",
       "commit_sha": "73f551046c2cc33b0ab1042fc51f36fc545a3595"
+    },
+    {
+      "id": "0cce9fe5-58f1-4dca-98cd-27d4e75afd82",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "15.ostrich_spell.mp3",
+      "storage_path": "media/kid1/audio/15.ostrich_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@2fa6dc5558969519f14fb58d2112487a3a0ebf6c/media/kid1/audio/15.ostrich_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 116635,
+      "created_at": "2026-09-01T01:55:45.476Z",
+      "commit_sha": "2fa6dc5558969519f14fb58d2112487a3a0ebf6c"
     }
   ]
 }
