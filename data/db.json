@@ -2752,6 +2752,17 @@
       "size": 809865,
       "created_at": "2026-09-01T08:19:36.385Z",
       "commit_sha": "f8f862666cddb5569057fb71661402e8acf3f9f7"
+    },
+    {
+      "id": "45102ac7-20e4-4fc2-8edb-7015d6576e4b",
+      "folder_id": "f17e680e-eea2-44aa-8db7-c8fd467207df",
+      "filename": "16.duck_sound_2.mp3",
+      "storage_path": "media/kid5/audio/16.duck_sound_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@79fb3667a93e9132923f6523df347cf195d49eae/media/kid5/audio/16.duck_sound_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 213228,
+      "created_at": "2026-09-01T08:19:43.534Z",
+      "commit_sha": "79fb3667a93e9132923f6523df347cf195d49eae"
     }
   ]
 }
