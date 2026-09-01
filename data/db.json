@@ -1818,6 +1818,17 @@
       "size": 115063,
       "created_at": "2026-09-01T07:10:27.049Z",
       "commit_sha": "ec2c416ea2e71b5411ce7e160222dd749fffc96b"
+    },
+    {
+      "id": "ec0d7a82-5cfc-4f8d-a327-e57b0f450e65",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "12_crocodile_story.mp3",
+      "storage_path": "media/kid3/audio/12_crocodile_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@173cd34d270364f6746ddb56db0260b75e34d835/media/kid3/audio/12_crocodile_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1629765,
+      "created_at": "2026-09-01T07:14:50.474Z",
+      "commit_sha": "173cd34d270364f6746ddb56db0260b75e34d835"
     }
   ]
 }
