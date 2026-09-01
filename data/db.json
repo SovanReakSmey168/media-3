@@ -1324,6 +1324,17 @@
       "size": 62997,
       "created_at": "2026-09-01T03:46:10.151Z",
       "commit_sha": "a60ca3419e15a779c955c735486797fd6b20468d"
+    },
+    {
+      "id": "464aaa26-91cc-4aa0-b8a2-7d19bf3a5d5b",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "37_pig_story.mp3",
+      "storage_path": "media/kid1/audio/37_pig_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@0cf2fbad7a78bd3af2465d48f263cd9d627bd45d/media/kid1/audio/37_pig_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 970893,
+      "created_at": "2026-09-01T03:46:25.891Z",
+      "commit_sha": "0cf2fbad7a78bd3af2465d48f263cd9d627bd45d"
     }
   ]
 }
