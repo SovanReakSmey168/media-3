@@ -1401,6 +1401,17 @@
       "size": 142230,
       "created_at": "2026-09-01T03:54:34.906Z",
       "commit_sha": "553e9088524f09c03473bc358639d162319189b3"
+    },
+    {
+      "id": "974e316c-fb43-4a55-a7f8-495a238f6e0d",
+      "folder_id": "d4ed8073-4234-4fad-a57d-40c347abb934",
+      "filename": "51v2.t-rex_story.mp3",
+      "storage_path": "media/kid1/audio/51v2.t-rex_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@ca88cb98b1d390ae967905cbd91aee386f7d6f16/media/kid1/audio/51v2.t-rex_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1307157,
+      "created_at": "2026-09-01T03:54:47.150Z",
+      "commit_sha": "ca88cb98b1d390ae967905cbd91aee386f7d6f16"
     }
   ]
 }
