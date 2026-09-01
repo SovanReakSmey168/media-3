@@ -1659,6 +1659,17 @@
       "size": 195499,
       "created_at": "2026-09-01T07:07:05.768Z",
       "commit_sha": "de67343680a316966dde409e750b7159bffd4b2d"
+    },
+    {
+      "id": "d16ab275-4375-43b6-a411-c08873656442",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "18_firefly_story.mp3",
+      "storage_path": "media/kid2/audio/18_firefly_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@896dba97686ec4b975a6b2f2a71a5510ce891ba6/media/kid2/audio/18_firefly_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 563226,
+      "created_at": "2026-09-01T07:07:16.017Z",
+      "commit_sha": "896dba97686ec4b975a6b2f2a71a5510ce891ba6"
     }
   ]
 }
