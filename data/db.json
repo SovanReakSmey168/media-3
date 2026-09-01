@@ -1681,6 +1681,17 @@
       "size": 1011525,
       "created_at": "2026-09-01T07:07:32.591Z",
       "commit_sha": "32678eed42d940725a18f7c32e8f8db6cd868ff5"
+    },
+    {
+      "id": "b7ca8871-35c3-4ca8-8bd1-3df2cba95221",
+      "folder_id": "57a845fc-2739-451a-80a3-0988ab9198ab",
+      "filename": "18.firefly_sound.mp3",
+      "storage_path": "media/kid2/audio/18.firefly_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@be9df7c5a3e39b971d951eb9f6c7fedb2062d355/media/kid2/audio/18.firefly_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 87895,
+      "created_at": "2026-09-01T07:07:47.593Z",
+      "commit_sha": "be9df7c5a3e39b971d951eb9f6c7fedb2062d355"
     }
   ]
 }
