@@ -1873,6 +1873,17 @@
       "size": 20523,
       "created_at": "2026-09-01T07:17:50.141Z",
       "commit_sha": "15ceae4dcc4d121d8eed6d4b7b4978d6cdfce1b5"
+    },
+    {
+      "id": "038aa1e5-86d3-44e3-8272-b3c1c3297355",
+      "folder_id": "0b0e84d2-b874-489f-b90e-14639ce97e54",
+      "filename": "13_deer_story.mp3",
+      "storage_path": "media/kid3/audio/13_deer_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@38c427faca463cc6443c639ded3db2f99a2c5ab9/media/kid3/audio/13_deer_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 924333,
+      "created_at": "2026-09-01T07:38:33.025Z",
+      "commit_sha": "38c427faca463cc6443c639ded3db2f99a2c5ab9"
     }
   ]
 }
