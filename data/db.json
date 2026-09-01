@@ -2939,6 +2939,17 @@
       "size": 142021,
       "created_at": "2026-09-01T08:22:10.830Z",
       "commit_sha": "199a1c276d3bf3b60f0cc8b6f27f32ab9a573851"
+    },
+    {
+      "id": "8d456164-3310-49d4-91db-cceca0db0620",
+      "folder_id": "f17e680e-eea2-44aa-8db7-c8fd467207df",
+      "filename": "50_turtle_story.mp3",
+      "storage_path": "media/kid5/audio/50_turtle_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@1072e8be3f08660b904ef391b4cefa31f1e10245/media/kid5/audio/50_turtle_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 721533,
+      "created_at": "2026-09-01T08:22:19.290Z",
+      "commit_sha": "1072e8be3f08660b904ef391b4cefa31f1e10245"
     }
   ]
 }
