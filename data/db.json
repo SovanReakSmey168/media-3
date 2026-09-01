@@ -2576,6 +2576,17 @@
       "size": 725901,
       "created_at": "2026-09-01T08:16:50.496Z",
       "commit_sha": "3e9d179a30201ed87c69bdf4e25681803eacd12a"
+    },
+    {
+      "id": "99298790-88b4-447c-9754-03974e086dc6",
+      "folder_id": "f17e680e-eea2-44aa-8db7-c8fd467207df",
+      "filename": "04_video.mp4",
+      "storage_path": "media/kid5/videos/04_video.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@30445fa263c3fb4bd548cdcddf173873cd0d2931/media/kid5/videos/04_video.mp4",
+      "mime_type": "video/mp4",
+      "size": 1000200,
+      "created_at": "2026-09-01T08:16:56.747Z",
+      "commit_sha": "30445fa263c3fb4bd548cdcddf173873cd0d2931"
     }
   ]
 }
