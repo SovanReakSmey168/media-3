@@ -2417,6 +2417,17 @@
       "size": 318861,
       "created_at": "2026-09-01T08:03:58.865Z",
       "commit_sha": "86671034021f4987a2c12148590a3a3b61e221be"
+    },
+    {
+      "id": "af07b042-d985-49bc-8eea-1cd7cedaa37c",
+      "folder_id": "751ce2bd-587d-4e01-be4c-ef0a300f7d58",
+      "filename": "40.seahorse_spell.mp3",
+      "storage_path": "media/kid4/audio/40.seahorse_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@92fa733cc46464c2fa9eb08fa8e00590510269db/media/kid4/audio/40.seahorse_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 136797,
+      "created_at": "2026-09-01T08:04:08.904Z",
+      "commit_sha": "92fa733cc46464c2fa9eb08fa8e00590510269db"
     }
   ]
 }
