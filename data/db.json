@@ -3362,6 +3362,17 @@
       "size": 1076205,
       "created_at": "2026-09-04T09:00:53.100Z",
       "commit_sha": "d0bc8714fcbcdd63491094231ac8fa62cd85a696"
+    },
+    {
+      "id": "ac4161ab-a0d5-4584-a7ad-cf6dc9234d14",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "48.cobra_sound.mp3",
+      "storage_path": "media/kid6/audio/48.cobra_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8a325a4136a25327c2e1cbf5e85712066c96e0b0/media/kid6/audio/48.cobra_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 38576,
+      "created_at": "2026-09-04T09:01:06.999Z",
+      "commit_sha": "8a325a4136a25327c2e1cbf5e85712066c96e0b0"
     }
   ]
 }
