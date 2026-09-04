@@ -3428,6 +3428,17 @@
       "size": 901222,
       "created_at": "2026-09-04T09:02:08.638Z",
       "commit_sha": "ac2c9c367ca94750b2bccebc7f4e8afdb8a46a09"
+    },
+    {
+      "id": "f523a211-f34e-4c93-a6c3-ae9aeac33d64",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "51.ant_sound.mp3",
+      "storage_path": "media/kid6/audio/51.ant_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@1fedef365866a076747e4f19374f1290a704bd29/media/kid6/audio/51.ant_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 126373,
+      "created_at": "2026-09-04T09:02:17.216Z",
+      "commit_sha": "1fedef365866a076747e4f19374f1290a704bd29"
     }
   ]
 }
