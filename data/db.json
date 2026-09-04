@@ -3043,6 +3043,17 @@
       "size": 143693,
       "created_at": "2026-09-04T08:26:56.379Z",
       "commit_sha": "b360309c8dfb52640eead12171eece15ef4c9642"
+    },
+    {
+      "id": "d4fd9fb0-d187-4e8f-b664-4833e6b839d6",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "10.cow_sound.mp3",
+      "storage_path": "media/kid6/audio/10.cow_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@216682eecb9bcd59e68dec33ab320121772610eb/media/kid6/audio/10.cow_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 53131,
+      "created_at": "2026-09-04T08:27:09.327Z",
+      "commit_sha": "216682eecb9bcd59e68dec33ab320121772610eb"
     }
   ]
 }
