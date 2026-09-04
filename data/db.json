@@ -3774,6 +3774,17 @@
       "size": 225098,
       "created_at": "2026-09-04T09:10:42.196Z",
       "commit_sha": "7056b882154cf8ad933ae61988b87e9337c381ea"
+    },
+    {
+      "id": "20526c99-30fc-4183-9021-ea64713aff62",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "08.chicken_spell.mp3",
+      "storage_path": "media/kid7/audio/08.chicken_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@bfd55fe28e5c67d3a56dc3add44b7893c8821824/media/kid7/audio/08.chicken_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 118939,
+      "created_at": "2026-09-04T09:10:52.554Z",
+      "commit_sha": "bfd55fe28e5c67d3a56dc3add44b7893c8821824"
     }
   ]
 }
