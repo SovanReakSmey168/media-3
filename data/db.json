@@ -3829,6 +3829,17 @@
       "size": 48619,
       "created_at": "2026-09-04T09:11:30.603Z",
       "commit_sha": "046fb9267f565e7ea0e594c348aae60e8f5e0969"
+    },
+    {
+      "id": "b3f90f31-e175-477f-85e4-19469547fa28",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "24.hamster_spell.mp3",
+      "storage_path": "media/kid7/audio/24.hamster_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@458419d7269e76a60491aaa05220686879f85dde/media/kid7/audio/24.hamster_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 123422,
+      "created_at": "2026-09-04T09:11:41.119Z",
+      "commit_sha": "458419d7269e76a60491aaa05220686879f85dde"
     }
   ]
 }
