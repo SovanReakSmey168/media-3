@@ -3384,6 +3384,17 @@
       "size": 101479,
       "created_at": "2026-09-04T09:01:20.683Z",
       "commit_sha": "2c71e4c213b1b1b683b7aa98eb8d1ff7268333de"
+    },
+    {
+      "id": "aebe962d-84ff-4cd8-bf70-c68d319f87ef",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "48.cobra_video_1.mp4",
+      "storage_path": "media/kid6/videos/48.cobra_video_1.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@65e51936a34a6dd5f3c89b8bc0a3da04762ce7d8/media/kid6/videos/48.cobra_video_1.mp4",
+      "mime_type": "video/mp4",
+      "size": 1098275,
+      "created_at": "2026-09-04T09:01:28.706Z",
+      "commit_sha": "65e51936a34a6dd5f3c89b8bc0a3da04762ce7d8"
     }
   ]
 }
