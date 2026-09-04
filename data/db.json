@@ -3851,6 +3851,17 @@
       "size": 201019,
       "created_at": "2026-09-04T09:11:58.266Z",
       "commit_sha": "c46c4cf8bffe19677011ea1f76454a728ebabb75"
+    },
+    {
+      "id": "eb7a05dc-9385-44fa-8910-0ade50c33b71",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "25_hippo_story.mp3",
+      "storage_path": "media/kid7/audio/25_hippo_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8945a8bf004789741458499050cb7992c7e69129/media/kid7/audio/25_hippo_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 622797,
+      "created_at": "2026-09-04T09:12:17.759Z",
+      "commit_sha": "8945a8bf004789741458499050cb7992c7e69129"
     }
   ]
 }
