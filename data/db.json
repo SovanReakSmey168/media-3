@@ -3675,6 +3675,17 @@
       "size": 114436,
       "created_at": "2026-09-04T09:08:38.637Z",
       "commit_sha": "b9e9d54019092f67a999a7687ab8e24276b1cefe"
+    },
+    {
+      "id": "c9939d05-f3ea-4f2a-b27f-9959b08ade32",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "03_bat_qa.mp3",
+      "storage_path": "media/kid7/audio/03_bat_qa.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@cdcd8c3cba1cefb5f716b02d7f363eafb207979f/media/kid7/audio/03_bat_qa.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 71061,
+      "created_at": "2026-09-04T09:08:46.793Z",
+      "commit_sha": "cdcd8c3cba1cefb5f716b02d7f363eafb207979f"
     }
   ]
 }
