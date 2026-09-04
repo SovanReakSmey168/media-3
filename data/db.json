@@ -3483,6 +3483,17 @@
       "size": 781917,
       "created_at": "2026-09-04T09:03:35.844Z",
       "commit_sha": "48168589639ac75d4541286b58bc09bd653562d5"
+    },
+    {
+      "id": "17fe9a9f-a29d-42d2-a55f-3818e99f92e0",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "52.whale_sound.mp3",
+      "storage_path": "media/kid6/audio/52.whale_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@d81360752299f3012a4826bac6d8eb20f1371b7d/media/kid6/audio/52.whale_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 105461,
+      "created_at": "2026-09-04T09:03:47.596Z",
+      "commit_sha": "d81360752299f3012a4826bac6d8eb20f1371b7d"
     }
   ]
 }
