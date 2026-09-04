@@ -3098,6 +3098,17 @@
       "size": 1100820,
       "created_at": "2026-09-04T08:54:05.041Z",
       "commit_sha": "1be369fce61d5560eb3b5c16cd4aa7c0ad15de75"
+    },
+    {
+      "id": "6d65d365-24a2-44a9-97d7-bd507d6502c8",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "42.sheep_sound.mp3",
+      "storage_path": "media/kid6/audio/42.sheep_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@102b312ac3107a63634a372c13b9851519beaaef/media/kid6/audio/42.sheep_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 14462,
+      "created_at": "2026-09-04T08:54:17.161Z",
+      "commit_sha": "102b312ac3107a63634a372c13b9851519beaaef"
     }
   ]
 }
