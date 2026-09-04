@@ -3054,6 +3054,17 @@
       "size": 68805,
       "created_at": "2026-09-04T08:53:19.444Z",
       "commit_sha": "70dbe795c5f1bd0a3a555bb8fcda84817a0749f7"
+    },
+    {
+      "id": "7e7f89ab-7f85-407a-a7f2-bdf398ccd3bb",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "38_porcupine_story.mp3",
+      "storage_path": "media/kid6/audio/38_porcupine_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@86ed4f96322ba2c397de2f548c8d43d899e281c7/media/kid6/audio/38_porcupine_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 916053,
+      "created_at": "2026-09-04T08:53:28.298Z",
+      "commit_sha": "86ed4f96322ba2c397de2f548c8d43d899e281c7"
     }
   ]
 }
