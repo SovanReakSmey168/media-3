@@ -3065,6 +3065,17 @@
       "size": 79579,
       "created_at": "2026-09-04T08:27:17.907Z",
       "commit_sha": "3dbaba1d6ad4cd728aae8fb5a52bee1767e4142f"
+    },
+    {
+      "id": "7ad80864-11f2-42c9-9bf3-ca6d3fc2df5d",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "11.crab_sound.mp3",
+      "storage_path": "media/kid6/audio/11.crab_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@069ef685c27a39581dd8f1024fbdaafa193bdc27/media/kid6/audio/11.crab_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 49583,
+      "created_at": "2026-09-04T08:27:30.508Z",
+      "commit_sha": "069ef685c27a39581dd8f1024fbdaafa193bdc27"
     }
   ]
 }
