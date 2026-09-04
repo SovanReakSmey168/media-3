@@ -3010,6 +3010,17 @@
       "size": 708261,
       "created_at": "2026-09-04T08:26:29.745Z",
       "commit_sha": "4c3626ad52d2a5978b48fee88b49d59acc450d9b"
+    },
+    {
+      "id": "3e4cd96f-7312-414b-8b81-43ad0806bd2e",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "05_video.mp4",
+      "storage_path": "media/kid6/videos/05_video.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@55a87dcfed648cb5b0cbbe9ca9e80ff04afe1553/media/kid6/videos/05_video.mp4",
+      "mime_type": "video/mp4",
+      "size": 993841,
+      "created_at": "2026-09-04T08:26:38.218Z",
+      "commit_sha": "55a87dcfed648cb5b0cbbe9ca9e80ff04afe1553"
     }
   ]
 }
