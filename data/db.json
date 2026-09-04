@@ -3153,6 +3153,17 @@
       "size": 837032,
       "created_at": "2026-09-04T08:55:02.145Z",
       "commit_sha": "85c29eb49da340499242e1d4cead82100f933d27"
+    },
+    {
+      "id": "1120abc9-d061-443c-922c-1b58d7ff1541",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "43.sloth_sound.mp3",
+      "storage_path": "media/kid6/audio/43.sloth_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@097078e35fec7809f0051aaa620179d69e6fd150/media/kid6/audio/43.sloth_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 59068,
+      "created_at": "2026-09-04T08:55:12.731Z",
+      "commit_sha": "097078e35fec7809f0051aaa620179d69e6fd150"
     }
   ]
 }
