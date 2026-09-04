@@ -2988,6 +2988,17 @@
       "size": 90833,
       "created_at": "2026-09-04T07:02:33.431Z",
       "commit_sha": "dde1a99498d561138e023bb7c2d5f86a44bd234b"
+    },
+    {
+      "id": "29bd9a20-9304-44c3-a319-6a2ebd3ef46d",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "05_butterfly_q_a.mp3",
+      "storage_path": "media/kid6/audio/05_butterfly_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@d71eecad47b12165c62f8d7318f62f30646d596e/media/kid6/audio/05_butterfly_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 66357,
+      "created_at": "2026-09-04T08:26:16.456Z",
+      "commit_sha": "d71eecad47b12165c62f8d7318f62f30646d596e"
     }
   ]
 }
