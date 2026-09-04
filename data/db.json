@@ -3873,6 +3873,17 @@
       "size": 888633,
       "created_at": "2026-09-04T09:12:34.174Z",
       "commit_sha": "984c4befb9db1cc9b45cde5f06668950e344f985"
+    },
+    {
+      "id": "ea4cfe4a-2c37-401b-ba25-aa5ed3619670",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "25.hippo_sound.mp3",
+      "storage_path": "media/kid7/audio/25.hippo_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@b853c53b9fda2edcec0c35911d12c27c126b848e/media/kid7/audio/25.hippo_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 313202,
+      "created_at": "2026-09-04T09:12:45.146Z",
+      "commit_sha": "b853c53b9fda2edcec0c35911d12c27c126b848e"
     }
   ]
 }
