@@ -3631,6 +3631,17 @@
       "size": 65661,
       "created_at": "2026-09-04T09:08:02.779Z",
       "commit_sha": "90d7792b845bdcd50c6e2677ff523048aa48b90e"
+    },
+    {
+      "id": "a9f50f43-0863-4ebb-a773-82b4c48e35a1",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "02_buffalo_story.mp3",
+      "storage_path": "media/kid7/audio/02_buffalo_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@248dcae38430bc99e3fd6a86c7134e44f9bd8c89/media/kid7/audio/02_buffalo_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1016589,
+      "created_at": "2026-09-04T09:08:11.087Z",
+      "commit_sha": "248dcae38430bc99e3fd6a86c7134e44f9bd8c89"
     }
   ]
 }
