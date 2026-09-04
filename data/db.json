@@ -3241,6 +3241,17 @@
       "size": 79461,
       "created_at": "2026-09-04T08:57:25.463Z",
       "commit_sha": "271e9b6b061e24b7dfedec0eabd3e147e5001535"
+    },
+    {
+      "id": "71a0fb76-33ce-4586-b97a-cd3e3ce4bb10",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "45_preah_vihear_temple_story.mp3",
+      "storage_path": "media/kid6/audio/45_preah_vihear_temple_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@fd94d817dcb813d76681ab26c2705d075766a4f4/media/kid6/audio/45_preah_vihear_temple_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 467685,
+      "created_at": "2026-09-04T08:58:49.039Z",
+      "commit_sha": "fd94d817dcb813d76681ab26c2705d075766a4f4"
     }
   ]
 }
