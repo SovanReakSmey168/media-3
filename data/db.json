@@ -3175,6 +3175,17 @@
       "size": 116202,
       "created_at": "2026-09-04T08:55:27.825Z",
       "commit_sha": "f286a77d1c386a103baec7d0ccf22d537dfe8664"
+    },
+    {
+      "id": "8fbbaca8-0c65-4ef4-b153-322414c80abf",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "44_snail_q_a.mp3",
+      "storage_path": "media/kid6/audio/44_snail_q_a.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@d7f33ceb4efc9c2b680a8b0f200d3d93d72566c7/media/kid6/audio/44_snail_q_a.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 76941,
+      "created_at": "2026-09-04T08:55:45.776Z",
+      "commit_sha": "d7f33ceb4efc9c2b680a8b0f200d3d93d72566c7"
     }
   ]
 }
