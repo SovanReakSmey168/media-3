@@ -3252,6 +3252,17 @@
       "size": 467685,
       "created_at": "2026-09-04T08:58:49.039Z",
       "commit_sha": "fd94d817dcb813d76681ab26c2705d075766a4f4"
+    },
+    {
+      "id": "d8d2ab2c-9419-4e66-8ad8-54b854e06a0b",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "45._prahvihea_temple_song_2.mp3",
+      "storage_path": "media/kid6/audio/45._prahvihea_temple_song_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@269ee30ba3940847253ac185a9805467ffa50eb1/media/kid6/audio/45._prahvihea_temple_song_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1478237,
+      "created_at": "2026-09-04T08:59:07.457Z",
+      "commit_sha": "269ee30ba3940847253ac185a9805467ffa50eb1"
     }
   ]
 }
