@@ -3664,6 +3664,17 @@
       "size": 52380,
       "created_at": "2026-09-04T09:08:30.754Z",
       "commit_sha": "74de31d20042168867250e6fec41e55687a0b061"
+    },
+    {
+      "id": "597a2f76-fd87-486b-bd46-77038fe28e4e",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "02.buffalo_spell_2.mp3",
+      "storage_path": "media/kid7/audio/02.buffalo_spell_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@b9e9d54019092f67a999a7687ab8e24276b1cefe/media/kid7/audio/02.buffalo_spell_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 114436,
+      "created_at": "2026-09-04T09:08:38.637Z",
+      "commit_sha": "b9e9d54019092f67a999a7687ab8e24276b1cefe"
     }
   ]
 }
