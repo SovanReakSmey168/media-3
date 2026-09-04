@@ -2999,6 +2999,17 @@
       "size": 66357,
       "created_at": "2026-09-04T08:26:16.456Z",
       "commit_sha": "d71eecad47b12165c62f8d7318f62f30646d596e"
+    },
+    {
+      "id": "b38ae88c-588b-4ddf-add6-77c5cdbcb0df",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "05_butterfly_story.mp3",
+      "storage_path": "media/kid6/audio/05_butterfly_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@4c3626ad52d2a5978b48fee88b49d59acc450d9b/media/kid6/audio/05_butterfly_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 708261,
+      "created_at": "2026-09-04T08:26:29.745Z",
+      "commit_sha": "4c3626ad52d2a5978b48fee88b49d59acc450d9b"
     }
   ]
 }
