@@ -3329,6 +3329,17 @@
       "size": 615194,
       "created_at": "2026-09-04T09:00:16.211Z",
       "commit_sha": "f7c877a4b35ba252780dbd219ba0a8581ebf02bf"
+    },
+    {
+      "id": "aa16449b-5929-45cb-9fb9-7ae3a55310b2",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "46.angkorwat_temple_spell.mp3",
+      "storage_path": "media/kid6/audio/46.angkorwat_temple_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@253d56545a35ba441554f433230dce7e65828a59/media/kid6/audio/46.angkorwat_temple_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 35859,
+      "created_at": "2026-09-04T09:00:32.811Z",
+      "commit_sha": "253d56545a35ba441554f433230dce7e65828a59"
     }
   ]
 }
