@@ -3763,6 +3763,17 @@
       "size": 899553,
       "created_at": "2026-09-04T09:10:34.121Z",
       "commit_sha": "e56ecdb534e8823626cc4080b2af7537b29b6d54"
+    },
+    {
+      "id": "40a86674-f3f0-4c05-ab50-2ff3e8841422",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "08.chicken_sound.mp3",
+      "storage_path": "media/kid7/audio/08.chicken_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@7056b882154cf8ad933ae61988b87e9337c381ea/media/kid7/audio/08.chicken_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 225098,
+      "created_at": "2026-09-04T09:10:42.196Z",
+      "commit_sha": "7056b882154cf8ad933ae61988b87e9337c381ea"
     }
   ]
 }
