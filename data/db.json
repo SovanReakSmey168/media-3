@@ -3472,6 +3472,17 @@
       "size": 74181,
       "created_at": "2026-09-04T09:02:51.664Z",
       "commit_sha": "e1e0f7170bc7b508641e63743883e76657beaed0"
+    },
+    {
+      "id": "5aa1e86d-2ed7-4059-914e-c64e22ee484a",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "52_whale_story.mp3",
+      "storage_path": "media/kid6/audio/52_whale_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@48168589639ac75d4541286b58bc09bd653562d5/media/kid6/audio/52_whale_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 781917,
+      "created_at": "2026-09-04T09:03:35.844Z",
+      "commit_sha": "48168589639ac75d4541286b58bc09bd653562d5"
     }
   ]
 }
