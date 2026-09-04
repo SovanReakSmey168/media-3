@@ -3164,6 +3164,17 @@
       "size": 59068,
       "created_at": "2026-09-04T08:55:12.731Z",
       "commit_sha": "097078e35fec7809f0051aaa620179d69e6fd150"
+    },
+    {
+      "id": "250b49fb-3596-4eb8-b1c1-1cd740d4efea",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "43.sloth_spell.mp3",
+      "storage_path": "media/kid6/audio/43.sloth_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@f286a77d1c386a103baec7d0ccf22d537dfe8664/media/kid6/audio/43.sloth_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 116202,
+      "created_at": "2026-09-04T08:55:27.825Z",
+      "commit_sha": "f286a77d1c386a103baec7d0ccf22d537dfe8664"
     }
   ]
 }
