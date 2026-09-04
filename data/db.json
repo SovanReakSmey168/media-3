@@ -3620,6 +3620,17 @@
       "size": 1239944,
       "created_at": "2026-09-04T09:05:45.857Z",
       "commit_sha": "a13887d7c8ee0b0166c887165479f447147c36b3"
+    },
+    {
+      "id": "e6140266-d6f2-439f-9196-d07b82240c7c",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "02_buffalo_qa.mp3",
+      "storage_path": "media/kid7/audio/02_buffalo_qa.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@90d7792b845bdcd50c6e2677ff523048aa48b90e/media/kid7/audio/02_buffalo_qa.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 65661,
+      "created_at": "2026-09-04T09:08:02.779Z",
+      "commit_sha": "90d7792b845bdcd50c6e2677ff523048aa48b90e"
     }
   ]
 }
