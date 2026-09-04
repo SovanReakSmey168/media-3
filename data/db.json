@@ -3021,6 +3021,17 @@
       "size": 993841,
       "created_at": "2026-09-04T08:26:38.218Z",
       "commit_sha": "55a87dcfed648cb5b0cbbe9ca9e80ff04afe1553"
+    },
+    {
+      "id": "ad7866d0-6b76-45ab-939b-222a53b777d4",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "05.butterfly_sound.mp3",
+      "storage_path": "media/kid6/audio/05.butterfly_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@dc1f1bcef8086d2412d9a9370d8c1179c8f20423/media/kid6/audio/05.butterfly_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 271926,
+      "created_at": "2026-09-04T08:26:47.337Z",
+      "commit_sha": "dc1f1bcef8086d2412d9a9370d8c1179c8f20423"
     }
   ]
 }
