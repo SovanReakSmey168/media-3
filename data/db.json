@@ -3032,6 +3032,17 @@
       "size": 271926,
       "created_at": "2026-09-04T08:26:47.337Z",
       "commit_sha": "dc1f1bcef8086d2412d9a9370d8c1179c8f20423"
+    },
+    {
+      "id": "6e2814c2-1537-4494-9fd1-f3e19e1172df",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "05.butterfly_spell_2.mp3",
+      "storage_path": "media/kid6/audio/05.butterfly_spell_2.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@b360309c8dfb52640eead12171eece15ef4c9642/media/kid6/audio/05.butterfly_spell_2.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 143693,
+      "created_at": "2026-09-04T08:26:56.379Z",
+      "commit_sha": "b360309c8dfb52640eead12171eece15ef4c9642"
     }
   ]
 }
