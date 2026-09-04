@@ -3653,6 +3653,17 @@
       "size": 896786,
       "created_at": "2026-09-04T09:08:19.981Z",
       "commit_sha": "f8d3e0ede203408324e046cd05f290dbc0754713"
+    },
+    {
+      "id": "723cd5d6-e459-4a6c-97c5-3665a0a25cb1",
+      "folder_id": "e8b7ee4f-c9b4-4655-a5f0-6cdc0b9d8b57",
+      "filename": "02.buffalo_sound.mp3",
+      "storage_path": "media/kid7/audio/02.buffalo_sound.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@74de31d20042168867250e6fec41e55687a0b061/media/kid7/audio/02.buffalo_sound.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 52380,
+      "created_at": "2026-09-04T09:08:30.754Z",
+      "commit_sha": "74de31d20042168867250e6fec41e55687a0b061"
     }
   ]
 }
