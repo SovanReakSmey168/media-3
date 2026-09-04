@@ -3274,6 +3274,17 @@
       "size": 37531,
       "created_at": "2026-09-04T08:59:16.489Z",
       "commit_sha": "bec8c228bef6600187c11a78a998d025a5dfbdd8"
+    },
+    {
+      "id": "01be71bc-9639-486f-ba4b-fbe83f115228",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "45.prahvihea_temple_video_.mp4",
+      "storage_path": "media/kid6/videos/45.prahvihea_temple_video_.mp4",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@8e702784725183efee3a64e6eb6e12f0ff26cf88/media/kid6/videos/45.prahvihea_temple_video_.mp4",
+      "mime_type": "video/mp4",
+      "size": 1164176,
+      "created_at": "2026-09-04T08:59:25.176Z",
+      "commit_sha": "8e702784725183efee3a64e6eb6e12f0ff26cf88"
     }
   ]
 }
