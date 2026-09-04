@@ -3571,6 +3571,17 @@
       "size": 63717,
       "created_at": "2026-09-04T09:05:05.538Z",
       "commit_sha": "cdade694c1104dba900e8acae2132ed6a31ab9d0"
+    },
+    {
+      "id": "8e6cbb5a-f716-451d-94a8-1be1f627ab2d",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "54_shark_story.mp3",
+      "storage_path": "media/kid6/audio/54_shark_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@860a0511e9bf9113a3eabbca26249fdd637b0101/media/kid6/audio/54_shark_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 664797,
+      "created_at": "2026-09-04T09:05:14.857Z",
+      "commit_sha": "860a0511e9bf9113a3eabbca26249fdd637b0101"
     }
   ]
 }
