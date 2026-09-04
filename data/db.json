@@ -3373,6 +3373,17 @@
       "size": 38576,
       "created_at": "2026-09-04T09:01:06.999Z",
       "commit_sha": "8a325a4136a25327c2e1cbf5e85712066c96e0b0"
+    },
+    {
+      "id": "6645ab0c-e345-4f39-b05b-5f2b40f408ae",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "48.cobra_spell.mp3",
+      "storage_path": "media/kid6/audio/48.cobra_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@2c71e4c213b1b1b683b7aa98eb8d1ff7268333de/media/kid6/audio/48.cobra_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 101479,
+      "created_at": "2026-09-04T09:01:20.683Z",
+      "commit_sha": "2c71e4c213b1b1b683b7aa98eb8d1ff7268333de"
     }
   ]
 }
