@@ -3131,6 +3131,17 @@
       "size": 67485,
       "created_at": "2026-09-04T08:54:41.468Z",
       "commit_sha": "ef4c33a9ba9ef6e4d50f9d01cb622a1e80ee4afc"
+    },
+    {
+      "id": "d7f62730-7612-46a6-8bba-ba593f3b0cbd",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "43_sloth_story.mp3",
+      "storage_path": "media/kid6/audio/43_sloth_story.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@bf6a1558c11b64b7065dec4d6d55788db900de9f/media/kid6/audio/43_sloth_story.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 785589,
+      "created_at": "2026-09-04T08:54:52.284Z",
+      "commit_sha": "bf6a1558c11b64b7065dec4d6d55788db900de9f"
     }
   ]
 }
