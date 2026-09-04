@@ -3285,6 +3285,17 @@
       "size": 1164176,
       "created_at": "2026-09-04T08:59:25.176Z",
       "commit_sha": "8e702784725183efee3a64e6eb6e12f0ff26cf88"
+    },
+    {
+      "id": "4172ceaa-97b8-4995-8eee-1708846f8555",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "46_angkor_wat_qa.mp3",
+      "storage_path": "media/kid6/audio/46_angkor_wat_qa.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@03d20ad660cf5856cbfbbded1baf9958e7db1c31/media/kid6/audio/46_angkor_wat_qa.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 70941,
+      "created_at": "2026-09-04T08:59:39.994Z",
+      "commit_sha": "03d20ad660cf5856cbfbbded1baf9958e7db1c31"
     }
   ]
 }
