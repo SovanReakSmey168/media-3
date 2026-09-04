@@ -3263,6 +3263,17 @@
       "size": 1478237,
       "created_at": "2026-09-04T08:59:07.457Z",
       "commit_sha": "269ee30ba3940847253ac185a9805467ffa50eb1"
+    },
+    {
+      "id": "0c43dd91-3c98-43a7-a67e-3966fde6b19b",
+      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
+      "filename": "45.prahvihea_temple_spell.mp3",
+      "storage_path": "media/kid6/audio/45.prahvihea_temple_spell.mp3",
+      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@bec8c228bef6600187c11a78a998d025a5dfbdd8/media/kid6/audio/45.prahvihea_temple_spell.mp3",
+      "mime_type": "audio/mpeg",
+      "size": 37531,
+      "created_at": "2026-09-04T08:59:16.489Z",
+      "commit_sha": "bec8c228bef6600187c11a78a998d025a5dfbdd8"
     }
   ]
 }
