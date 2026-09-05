@@ -3116,17 +3116,6 @@
       "commit_sha": "102b312ac3107a63634a372c13b9851519beaaef"
     },
     {
-      "id": "782438ef-43f0-43e0-9162-3ea0e7af66d9",
-      "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
-      "filename": "42.sheep_spell.mp3",
-      "storage_path": "media/kid6/audio/42.sheep_spell.mp3",
-      "public_url": "https://cdn.jsdelivr.net/gh/SovanReakSmey168/media-3@b064e428c7fa4aec12ca1098e336e5507a5c5972/media/kid6/audio/42.sheep_spell.mp3",
-      "mime_type": "audio/mpeg",
-      "size": 94792,
-      "created_at": "2026-09-04T08:54:28.325Z",
-      "commit_sha": "b064e428c7fa4aec12ca1098e336e5507a5c5972"
-    },
-    {
       "id": "43361982-a374-4194-882d-e4fe2067caff",
       "folder_id": "62475c41-cdbf-48d4-b5f0-09ce0d529185",
       "filename": "43_sloth_q_a.mp3",
